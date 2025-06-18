@@ -1,0 +1,19 @@
+100.00	866	0	R	1	root
+100.00	866	0	R1	131567	  cellular organisms
+100.00	866	0	R2	2	    Bacteria
+99.19	859	0	K	3379134	      Pseudomonadati
+99.19	859	0	P	1224	        Pseudomonadota
+99.08	858	0	C	1236	          Gammaproteobacteria
+99.08	858	0	O	135614	            Lysobacterales
+99.08	858	0	F	32033	              Lysobacteraceae
+99.08	858	858	G	40323	                Stenotrophomonas
+0.12	1	0	C	28216	          Betaproteobacteria
+0.12	1	0	O	80840	            Burkholderiales
+0.12	1	0	F	119060	              Burkholderiaceae
+0.12	1	0	G	1822464	                Paraburkholderia
+0.81	7	0	K	1783272	      Bacillati
+0.81	7	0	P	1239	        Bacillota
+0.81	7	0	C	91061	          Bacilli
+0.81	7	0	O	1385	            Bacillales
+0.81	7	0	F	186817	              Bacillaceae
+0.81	7	7	G	1386	                Bacillus

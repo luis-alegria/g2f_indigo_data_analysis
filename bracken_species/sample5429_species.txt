@@ -1,0 +1,27 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	18146	2315	20461	0.68113
+Xanthomonas arboricola	56448	S	1	0	1	0.00003
+Pseudomonas sp. CIP-10	2892442	S	3488	3852	7340	0.24434
+Enterobacter sp. T2	2707174	S	263	730	993	0.03306
+Marinomonas sp. THO17	3149048	S	3	0	3	0.00010
+Halomonas sp. JS92-SW72	2306583	S	1	0	1	0.00003
+Janthinobacterium agaricidamnosum	55508	S	49	0	49	0.00163
+Acidovorax carolinensis	553814	S	17	0	17	0.00057
+Ensifer adhaerens	106592	S	1	0	1	0.00003
+Phreatobacter cathodiphilus	1868589	S	1	0	1	0.00003
+Brevundimonas sp. Bb-A	2560058	S	1	0	1	0.00003
+Terricaulis silvestris	2686094	S	1	0	1	0.00003
+Mucilaginibacter sp. Mucisp86	3243060	S	1	0	1	0.00003
+Draconibacterium orientale	1168034	S	1	0	1	0.00003
+Sorangium cellulosum	56	S	1	0	1	0.00003
+Aeoliella mucimassa	2527972	S	1	0	1	0.00003
+Bacillus cereus	1396	S	989	7	996	0.03316
+Paucilactobacillus hokkaidonensis	1193095	S	1	0	1	0.00003
+Streptomyces chromofuscus	42881	S	15	1	16	0.00053
+Streptomyces sp. NBC_00259	2903643	S	2	0	2	0.00007
+Streptomyces sp. NBC_01537	2903896	S	1	0	1	0.00003
+Curtobacterium citreum	2036	S	1	1	2	0.00007
+[Mycobacterium] stephanolepidis	1520670	S	1	1	2	0.00007
+Spiroplasma endosymbiont of Panorpa germanica	3066314	S	3	0	3	0.00010
+Prochlorococcus marinus	1219	S	1	0	1	0.00003
+Homo sapiens	9606	S	135	2	137	0.00456

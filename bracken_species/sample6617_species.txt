@@ -1,0 +1,4 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	854	4	858	0.99076
+Paraburkholderia tropica	92647	S	1	0	1	0.00115
+Bacillus cereus	1396	S	7	0	7	0.00808

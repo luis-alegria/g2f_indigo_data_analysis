@@ -1,0 +1,20 @@
+100.00	41	0	R	1	root
+100.00	41	0	R1	131567	  cellular organisms
+100.00	41	0	R2	2	    Bacteria
+92.68	38	0	K	3379134	      Pseudomonadati
+90.24	37	0	P	1224	        Pseudomonadota
+90.24	37	0	C	1236	          Gammaproteobacteria
+90.24	37	0	O	135614	            Lysobacterales
+90.24	37	0	F	32033	              Lysobacteraceae
+90.24	37	37	G	40323	                Stenotrophomonas
+2.44	1	0	P	2818505	        Myxococcota
+2.44	1	0	P1	3031711	          Polyangia
+2.44	1	0	O	3031712	            Polyangiales
+2.44	1	0	F	1055686	              Sandaracinaceae
+2.44	1	0	G	1055688	                Sandaracinus
+7.32	3	0	K	1783272	      Bacillati
+7.32	3	0	P	1239	        Bacillota
+7.32	3	0	C	91061	          Bacilli
+7.32	3	0	O	1385	            Bacillales
+7.32	3	0	F	186817	              Bacillaceae
+7.32	3	3	G	1386	                Bacillus

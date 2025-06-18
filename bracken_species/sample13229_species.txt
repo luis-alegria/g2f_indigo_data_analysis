@@ -1,0 +1,38 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	53936	1598	55534	0.91262
+Pseudomonas sp. CIP-10	2892442	S	1226	315	1541	0.02532
+Enterobacter sp. T2	2707174	S	48	31	79	0.00130
+Enterobacter sp. ECC-219	3116480	S	1	0	1	0.00002
+Halomonas sp. JS92-SW72	2306583	S	6	0	6	0.00010
+Sulfurifustis variabilis	1675686	S	1	0	1	0.00002
+Rhizobium sp. TH2	2775403	S	19	2	21	0.00035
+Ensifer adhaerens	106592	S	1	0	1	0.00002
+Sphingomonas rhizophila	2071607	S	1	6	7	0.00012
+Roseomonas marmotae	2768161	S	1	0	1	0.00002
+Mameliella sp.	1924940	S	1	0	1	0.00002
+Hyphococcus formosus	3143534	S	1	0	1	0.00002
+Janthinobacterium agaricidamnosum	55508	S	3	0	3	0.00005
+Actimicrobium sp. CCC2.4	3048606	S	1	0	1	0.00002
+Burkholderia lata	482957	S	1	0	1	0.00002
+Flagellimonas sp. CMM7	2654676	S	6	0	6	0.00010
+Niastella koreensis	354356	S	1	0	1	0.00002
+Flavisolibacter ginsenosidimutans	661481	S	1	0	1	0.00002
+Sediminibacterium sp. TEGAF015	575378	S	1	0	1	0.00002
+Lacibacter sediminis	2760713	S	1	0	1	0.00002
+Pseudobacter ginsenosidimutans	661488	S	1	0	1	0.00002
+Marinifilum fragile	570161	S	3	0	3	0.00005
+Gemmatirosa kalamazoonensis	861299	S	1	0	1	0.00002
+Verrucomicrobium sp. GAS474	1882831	S	2	1	3	0.00005
+Pirellula sp. SH-Sr6A	1632865	S	1	0	1	0.00002
+Humisphaera borealis	2807512	S	1	0	1	0.00002
+Dictyoglomus turgidum	513050	S	3	0	3	0.00005
+uncultured Mailhella sp.	1981031	S	1	0	1	0.00002
+Bacillus cereus	1396	S	3507	1	3508	0.05765
+Carnobacterium maltaromaticum	2751	S	3	0	3	0.00005
+Phosphitispora sp. TUW77	3152361	S	1	0	1	0.00002
+Streptomyces chromofuscus	42881	S	68	4	72	0.00118
+Streptomyces sp. ST1015	1848900	S	1	8	9	0.00015
+Conexibacter sp. S30A1	2937800	S	2	0	2	0.00003
+Dermatobacter hominis	2884263	S	1	0	1	0.00002
+Leptolyngbya sp. 7M	2812896	S	2	0	2	0.00003
+Homo sapiens	9606	S	24	0	24	0.00039

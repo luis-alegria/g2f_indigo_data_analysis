@@ -1,0 +1,27 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	29466	505	29971	0.75849
+Arenimonas daejeonensis	370777	S	1	0	1	0.00003
+Enterobacter sp. T2	2707174	S	4704	1621	6325	0.16007
+Pseudomonas sp. CIP-10	2892442	S	1809	254	2063	0.05221
+Halomonas sp. JS92-SW72	2306583	S	2	0	2	0.00005
+Microbulbifer sp. GL-2	2591606	S	1	0	1	0.00003
+Spiribacter salinus	1335746	S	1	0	1	0.00003
+Janthinobacterium agaricidamnosum	55508	S	14	0	14	0.00035
+Acidovorax carolinensis	553814	S	11	0	11	0.00028
+Sphingomonas sabuli	2764186	S	1	1	2	0.00005
+Roseomonas marmotae	2768161	S	1	0	1	0.00003
+Polymorphum gilvum	991904	S	1	0	1	0.00003
+Sediminibacterium sp. TEGAF015	575378	S	1	0	1	0.00003
+Sphingobacterium psychroaquaticum	561061	S	1	0	1	0.00003
+Gemmatirosa kalamazoonensis	861299	S	2	0	2	0.00005
+Urbifossiella limnaea	2528023	S	1	1	2	0.00005
+Dictyoglomus turgidum	513050	S	1	0	1	0.00003
+Sorangium cellulosum	56	S	1	0	1	0.00003
+Desulfobulbus oligotrophicus	1909699	S	1	0	1	0.00003
+Bacillus cereus	1396	S	778	1	779	0.01971
+Streptomyces chromofuscus	42881	S	31	3	34	0.00086
+Streptomyces sp. NBC_00259	2903643	S	6	0	6	0.00015
+Rhodococcus sp. MTM3W5.2	1805827	S	1	0	1	0.00003
+Cellulomonas fengjieae	2819978	S	1	0	1	0.00003
+Rubrobacter xylanophilus	49319	S	2	0	2	0.00005
+Homo sapiens	9606	S	286	0	286	0.00724

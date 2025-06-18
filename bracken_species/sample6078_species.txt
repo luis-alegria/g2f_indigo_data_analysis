@@ -1,0 +1,37 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	41847	953	42800	0.84480
+Enterobacter sp. T2	2707174	S	2712	1316	4028	0.07951
+Pseudomonas sp. CIP-10	2892442	S	2289	441	2730	0.05389
+Faucicola mancuniensis	1309795	S	1	0	1	0.00002
+Halomonas sp. JS92-SW72	2306583	S	1	0	1	0.00002
+Paraphotobacterium marinum	1755811	S	1	0	1	0.00002
+Janthinobacterium agaricidamnosum	55508	S	48	1	49	0.00097
+Acidovorax carolinensis	553814	S	10	0	10	0.00020
+Sulfuritortus calidifontis	1914471	S	1	0	1	0.00002
+Sphingomonas sp. MMS24-J45	3238806	S	1	2	3	0.00006
+Ensifer adhaerens	106592	S	6	0	6	0.00012
+Phreatobacter cathodiphilus	1868589	S	2	0	2	0.00004
+Phaeobacter inhibens	221822	S	1	0	1	0.00002
+Hyphobacterium sp.	2004662	S	1	0	1	0.00002
+Candidatus Bealeia paramacronuclearis	1921001	S	1	0	1	0.00002
+Draconibacterium orientale	1168034	S	10	0	10	0.00020
+Niastella koreensis	354356	S	1	0	1	0.00002
+Niabella ginsenosidivorans	1176587	S	1	0	1	0.00002
+Aurantibacillus circumpalustris	3036359	S	1	0	1	0.00002
+Cyclobacterium amurskyense	320787	S	1	0	1	0.00002
+Gemmatirosa kalamazoonensis	861299	S	2	0	2	0.00004
+Humisphaera borealis	2807512	S	1	0	1	0.00002
+Fontisphaera persica	2974023	S	1	0	1	0.00002
+Bacillus cereus	1396	S	871	1	872	0.01721
+Clostridium perfringens	1502	S	1	0	1	0.00002
+Streptomyces sp. NBC_00259	2903643	S	23	0	23	0.00045
+Streptomyces chromofuscus	42881	S	15	0	15	0.00030
+Nocardia salmonicida	53431	S	2	0	2	0.00004
+Dermacoccus nishinomiyaensis	1274	S	1	0	1	0.00002
+Nocardioides sp. T5	3400182	S	1	0	1	0.00002
+Blastococcus montanus	3144973	S	1	0	1	0.00002
+Conexibacter sp. S30A1	2937800	S	1	0	1	0.00002
+Thermobaculum terrenum	166501	S	1	0	1	0.00002
+Leptolyngbya sp. 7M	2812896	S	1	0	1	0.00002
+Aminithiophilus ramosus	3029084	S	1	0	1	0.00002
+Homo sapiens	9606	S	84	0	84	0.00166

@@ -1,0 +1,35 @@
+100.00	30401	0	R	1	root
+100.00	30401	0	R1	131567	  cellular organisms
+100.00	30401	0	R2	2	    Bacteria
+97.18	29542	0	K	3379134	      Pseudomonadati
+97.18	29542	0	P	1224	        Pseudomonadota
+97.17	29540	0	C	1236	          Gammaproteobacteria
+96.63	29377	0	O	135614	            Lysobacterales
+96.63	29377	0	F	32033	              Lysobacteraceae
+96.63	29377	29377	G	40323	                Stenotrophomonas
+0.54	163	0	O	91347	            Enterobacterales
+0.53	162	0	F	543	              Enterobacteriaceae
+0.53	162	162	G	547	                Enterobacter
+0.00	1	0	F	2812006	              Bruguierivoracaceae
+0.00	1	0	G	84565	                Sodalis
+0.01	2	0	C	28216	          Betaproteobacteria
+0.01	2	0	O	80840	            Burkholderiales
+0.01	2	0	F	75682	              Oxalobacteraceae
+0.00	1	0	F1	2895353	                Telluria group
+0.00	1	1	G	149698	                  Massilia
+0.00	1	0	G	29580	                Janthinobacterium
+2.82	858	0	K	1783272	      Bacillati
+2.82	856	0	P	1239	        Bacillota
+2.81	853	0	C	91061	          Bacilli
+2.81	853	0	O	1385	            Bacillales
+2.81	853	0	F	186817	              Bacillaceae
+2.81	853	853	G	1386	                Bacillus
+0.01	3	0	C	186801	          Clostridia
+0.01	3	0	O	3039167	            Moorellales
+0.01	3	0	F	3039168	              Moorellaceae
+0.01	3	0	G	44260	                Moorella
+0.01	2	0	P	201174	        Actinomycetota
+0.01	2	0	C	1760	          Actinomycetes
+0.01	2	0	O	2037	            Actinomycetales
+0.01	2	0	F	2049	              Actinomycetaceae
+0.01	2	0	G	1654	                Actinomyces

@@ -1,0 +1,5 @@
+# Commands to download data from Cyverse
+
+curl -O  https://de.cyverse.org/anon-files/iplant/home/shared/commons_repo/curated/GenomesToFields_G2F_Indigo_Microbiome_Data_2017-2018%20/a._G2F_Indigo_2017/g2f_indigo-2017.tar.gz
+
+curl -O  https://de.cyverse.org/anon-files/iplant/home/shared/commons_repo/curated/GenomesToFields_G2F_Indigo_Microbiome_Data_2017-2018%20/b._G2F_Indigo_2018/g2f_indigo-2018.tar.gz

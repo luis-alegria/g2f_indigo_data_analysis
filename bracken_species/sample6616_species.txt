@@ -1,0 +1,4 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	31	6	37	0.90244
+Sandaracinus amylolyticus	927083	S	1	0	1	0.02439
+Bacillus cereus	1396	S	3	0	3	0.07317

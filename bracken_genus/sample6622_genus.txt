@@ -1,0 +1,10 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas	40323	G	14117	12	14129	0.66277
+Halomonas	2745	G	6	0	6	0.00028
+Enterobacter	547	G	4	0	4	0.00019
+Variovorax	34072	G	1	0	1	0.00005
+Desulfovibrio	872	G	1	0	1	0.00005
+Bacillus	1386	G	7172	1	7173	0.33648
+Mammaliicoccus	2803850	G	1	0	1	0.00005
+Arthrobacter	1663	G	1	0	1	0.00005
+Homo	9605	G	1	0	1	0.00005

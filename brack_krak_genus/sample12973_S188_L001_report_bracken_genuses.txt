@@ -1,0 +1,46 @@
+100.00	339	0	R	1	root
+100.00	339	0	R1	131567	  cellular organisms
+100.00	339	0	R2	2	    Bacteria
+93.80	317	0	K	3379134	      Pseudomonadati
+93.51	316	0	P	1224	        Pseudomonadota
+92.92	314	0	C	1236	          Gammaproteobacteria
+90.73	307	0	O	135614	            Lysobacterales
+90.73	307	0	F	32033	              Lysobacteraceae
+90.73	307	307	G	40323	                Stenotrophomonas
+1.89	6	0	O	72274	            Pseudomonadales
+1.89	6	0	F	135621	              Pseudomonadaceae
+1.89	6	6	G	286	                Pseudomonas
+0.29	1	0	O	2887326	            Moraxellales
+0.29	1	0	F	468	              Moraxellaceae
+0.29	1	1	G	469	                Acinetobacter
+0.59	2	0	C	28216	          Betaproteobacteria
+0.59	2	0	O	80840	            Burkholderiales
+0.29	1	0	F	75682	              Oxalobacteraceae
+0.29	1	0	F1	2895353	                Telluria group
+0.29	1	1	G	149698	                  Massilia
+0.29	1	0	F	119060	              Burkholderiaceae
+0.29	1	1	G	48736	                Ralstonia
+0.30	1	0	K1	1783270	        FCB group
+0.30	1	0	K2	68336	          Bacteroidota/Chlorobiota group
+0.30	1	0	P	976	            Bacteroidota
+0.30	1	0	C	1853228	              Chitinophagia
+0.30	1	0	O	1853229	                Chitinophagales
+0.30	1	0	F	563835	                  Chitinophagaceae
+0.30	1	1	G	79328	                    Chitinophaga
+6.20	21	0	K	1783272	      Bacillati
+5.31	18	0	P	201174	        Actinomycetota
+5.31	18	0	C	1760	          Actinomycetes
+4.13	14	0	O	85008	            Micromonosporales
+4.13	14	0	F	28056	              Micromonosporaceae
+4.13	14	14	G	1873	                Micromonospora
+1.18	4	0	O	85011	            Kitasatosporales
+1.18	4	0	F	2062	              Streptomycetaceae
+1.18	4	0	G	1883	                Streptomyces
+0.89	3	0	P	1239	        Bacillota
+0.89	3	0	C	91061	          Bacilli
+0.59	2	0	O	1385	            Bacillales
+0.59	2	0	F	186817	              Bacillaceae
+0.59	2	2	G	1386	                Bacillus
+0.30	1	0	O	186826	            Lactobacillales
+0.30	1	0	F	81852	              Enterococcaceae
+0.30	1	0	G	1350	                Enterococcus

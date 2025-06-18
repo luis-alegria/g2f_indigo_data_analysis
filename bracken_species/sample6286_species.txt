@@ -1,0 +1,88 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Ralstonia solanacearum	305	S	1	707	708	0.10650
+Burkholderia mallei	13373	S	4	42	46	0.00692
+Burkholderia pseudomallei	28450	S	2	21	23	0.00346
+Burkholderia ubonensis	101571	S	1	1	2	0.00030
+Cupriavidus malaysiensis	367825	S	2	1	3	0.00045
+Limnobacter sp.	2003368	S	1	0	1	0.00015
+Herbaspirillum hiltneri	341045	S	2	4	6	0.00090
+Oligella ureolytica	90244	S	1	0	1	0.00015
+Kingella kingae	504	S	1	0	1	0.00015
+Sodalis ligni	2697027	S	333	27	360	0.05415
+Sodalis endosymbiont of Henestaris halophilus	1929246	S	1	0	1	0.00015
+Escherichia coli	562	S	63	908	971	0.14606
+Escherichia albertii	208962	S	1	0	1	0.00015
+Salmonella enterica	28901	S	22	2859	2881	0.43336
+Klebsiella pneumoniae	573	S	11	50	61	0.00918
+Klebsiella quasipneumoniae	1463165	S	2	1	3	0.00045
+Klebsiella aerogenes	548	S	4	0	4	0.00060
+Klebsiella michiganensis	1134687	S	1	0	1	0.00015
+Klebsiella sp. PL-2018	2851540	S	1	0	1	0.00015
+Enterobacter cloacae	550	S	1	0	1	0.00015
+Enterobacter ludwigii	299767	S	1	2	3	0.00045
+Enterobacter bugandensis	881260	S	1	1	2	0.00030
+Shigella flexneri	623	S	2	22	24	0.00361
+Candidatus Moranella endobia	1048758	S	1	0	1	0.00015
+Serratia marcescens	615	S	3	2	5	0.00075
+Serratia plymuthica	82996	S	1	2	3	0.00045
+Serratia symbiotica	138074	S	1	0	1	0.00015
+Yersinia pestis	632	S	2	285	287	0.04317
+Yersinia entomophaga	935293	S	2	0	2	0.00030
+Erwinia pyrifoliae	79967	S	1	0	1	0.00015
+Pectobacterium parmentieri	1905730	S	1	0	1	0.00015
+Morganella morganii	582	S	1	0	1	0.00015
+Xanthomonas albilineans	29447	S	76	74	150	0.02256
+Xanthomonas euvesicatoria	456327	S	1	38	39	0.00587
+Stenotrophomonas maltophilia	40324	S	8	48	56	0.00842
+Dyella caseinilytica	1849581	S	1	2	3	0.00045
+Dokdonella koreensis	323415	S	1	4	5	0.00075
+Acinetobacter pittii	48296	S	2	10	12	0.00181
+Pseudomonas putida	303	S	3	3	6	0.00090
+Pseudomonas aeruginosa	287	S	2	4	6	0.00090
+Pseudomonas synxantha	47883	S	1	1	2	0.00030
+Thioflavicoccus mobilis	80679	S	3	0	3	0.00045
+Allochromatium tepidum	553982	S	2	0	2	0.00030
+Shewanella baltica	62322	S	4	0	4	0.00060
+Shewanella bicestrii	2018305	S	2	0	2	0.00030
+Pseudoalteromonas sp. A41-2	2785910	S	3	1	4	0.00060
+Aeromonas sp. 2692-1	2560029	S	4	2	6	0.00090
+Aeromonas veronii	654	S	3	0	3	0.00045
+Salinispirillum sp. LH 10-3-1	2952525	S	2	0	2	0.00030
+Candidatus Paraluminiphilus aquimaris	2518994	S	2	0	2	0.00030
+Vibrio cholerae	666	S	1	0	1	0.00015
+Vibrio taketomensis	2572923	S	1	0	1	0.00015
+Aquicella siphonis	254247	S	1	1	2	0.00030
+Mergibacter septicus	221402	S	1	0	1	0.00015
+Acidisoma cladoniae	3040935	S	110	2	112	0.01685
+Elioraea tepida	2843330	S	2	0	2	0.00030
+Rhodopseudomonas boonkerdii	475937	S	1	8	9	0.00135
+Kaistia sp. 32K	2795690	S	1	0	1	0.00015
+Wolbachia endosymbiont (group A) of Agelastica alni	3066130	S	2	1	3	0.00045
+Candidatus Hydrogenosomobacter endosymbioticus	2558174	S	1	0	1	0.00015
+Rhizosphaericola mali	2545455	S	15	0	15	0.00226
+Enterococcus faecalis	1351	S	277	94	371	0.05581
+Streptococcus pyogenes	1314	S	2	64	66	0.00993
+Dellaglioa sp. P0083	3344667	S	13	1	14	0.00211
+Aerococcus christensenii	87541	S	1	0	1	0.00015
+Bacillus velezensis	492670	S	8	36	44	0.00662
+Bacillus subtilis	1423	S	2	7	9	0.00135
+Bacillus anthracis	1392	S	4	117	121	0.01820
+Bacillus pumilus	1408	S	1	0	1	0.00015
+Bacillus safensis	561879	S	1	0	1	0.00015
+Bacillus altitudinis	293387	S	1	1	2	0.00030
+Priestia megaterium	1404	S	2	9	11	0.00165
+Alkalicoccus halolimnae	1667239	S	1	0	1	0.00015
+Geobacillus sp. GHH01	1233873	S	4	6	10	0.00150
+Anoxybacillus flavithermus	33934	S	1	0	1	0.00015
+Staphylococcus epidermidis	1282	S	1	0	1	0.00015
+Staphylococcus xylosus	1288	S	1	1	2	0.00030
+Staphylococcus argenteus	985002	S	1	0	1	0.00015
+Paenibacillus sp. DR312	2871175	S	1	1	2	0.00030
+Paenibacillus cellulosilyticus	375489	S	1	0	1	0.00015
+Clostridium baratii	1561	S	1	0	1	0.00015
+Yimella sp. cx-51	2770551	S	1	0	1	0.00015
+Mycobacterium kansasii	1768	S	3	3	6	0.00090
+Streptomyces sp. NBC_00203	2975680	S	3	2	5	0.00075
+Conexibacter sp. SYSU D00693	2812560	S	25	2	27	0.00406
+Minisyncoccus archaeophilus	3238481	S	53	0	53	0.00797
+Aminomonas paucivorans	81412	S	3	0	3	0.00045

@@ -1,0 +1,45 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	15936	11413	27349	0.74346
+Pseudomonas sp. CIP-10	2892442	S	386	2435	2821	0.07669
+Enterobacter sp. T2	2707174	S	305	4837	5142	0.13978
+Candidatus Purcelliella pentastirinorum	472834	S	1	0	1	0.00003
+Thermochromatium tepidum	1050	S	1	0	1	0.00003
+Halomonas sp. JS92-SW72	2306583	S	2	2	4	0.00011
+Janthinobacterium agaricidamnosum	55508	S	123	0	123	0.00334
+Pigmentiphaga litoralis	516702	S	19	0	19	0.00052
+Acidovorax carolinensis	553814	S	2	0	2	0.00005
+Phreatobacter cathodiphilus	1868589	S	25	3	28	0.00076
+Agrobacterium arsenijevicii	1585697	S	1	0	1	0.00003
+Ensifer adhaerens	106592	S	1	0	1	0.00003
+Enhydrobacter sp.	1894999	S	2	0	2	0.00005
+Devosia sp. A16	1736675	S	1	0	1	0.00003
+Sphingomonas rhizophila	2071607	S	2	1	3	0.00008
+Sphingomonas sabuli	2764186	S	1	0	1	0.00003
+Terricaulis silvestris	2686094	S	1	0	1	0.00003
+Draconibacterium orientale	1168034	S	75	0	75	0.00204
+Rhodocytophaga rosea	2704465	S	1	0	1	0.00003
+Pontibacter pudoricolor	2694930	S	1	0	1	0.00003
+Sphingobacterium psychroaquaticum	561061	S	1	0	1	0.00003
+Pseudogemmatithrix spongiicola	3062599	S	1	0	1	0.00003
+Desulfovibrio desulfuricans	876	S	2	0	2	0.00005
+Lawsonia intracellularis	29546	S	1	0	1	0.00003
+Desulfomarina profundi	2772557	S	1	0	1	0.00003
+Geoalkalibacter subterraneus	483547	S	1	0	1	0.00003
+Dictyoglomus turgidum	513050	S	3	0	3	0.00008
+Haliangium ochraceum	80816	S	1	0	1	0.00003
+Bacillus cereus	1396	S	1078	11	1089	0.02960
+Staphylococcus aureus	1280	S	1	0	1	0.00003
+Sporosarcina sp. ANT_H38	2597358	S	1	0	1	0.00003
+Streptomyces sp. NBC_00259	2903643	S	4	17	21	0.00057
+Streptomyces sp. R02	3238623	S	1	42	43	0.00117
+Nocardioides sp. T5	3400182	S	1	2	3	0.00008
+Microlunatus elymi	2596828	S	1	1	2	0.00005
+Curtobacterium sp. MCJR17_020	2175619	S	3	0	3	0.00008
+Corynebacterium minutissimum	38301	S	1	0	1	0.00003
+Amycolatopsis sp. NBC_00345	2975955	S	1	0	1	0.00003
+Conexibacter sp. S30A1	2937800	S	4	0	4	0.00011
+Dermatobacter hominis	2884263	S	1	0	1	0.00003
+Rubrobacter xylanophilus	49319	S	1	0	1	0.00003
+Leptolyngbya sp. 7M	2812896	S	1	0	1	0.00003
+Homo sapiens	9606	S	19	0	19	0.00052
+Saccharolobus sp. A20	1891280	S	1	0	1	0.00003

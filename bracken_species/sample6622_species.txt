@@ -1,0 +1,9 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	14117	12	14129	0.66280
+Halomonas sp. JS92-SW72	2306583	S	6	0	6	0.00028
+Enterobacter sp. T2	2707174	S	4	0	4	0.00019
+Desulfovibrio desulfuricans	876	S	1	0	1	0.00005
+Bacillus cereus	1396	S	7172	1	7173	0.33649
+Mammaliicoccus sciuri	1296	S	1	0	1	0.00005
+Arthrobacter sp. MPF02	3388492	S	1	0	1	0.00005
+Homo sapiens	9606	S	1	0	1	0.00005

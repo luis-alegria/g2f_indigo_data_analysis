@@ -1,0 +1,7 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	598	7	605	0.88321
+Sodalis ligni	2697027	S	1	1	2	0.00292
+Sulfurifustis variabilis	1675686	S	1	0	1	0.00146
+Sphingomonas morindae	1541170	S	2	0	2	0.00292
+Haliangium ochraceum	80816	S	1	0	1	0.00146
+Bacillus cereus	1396	S	73	0	73	0.10657

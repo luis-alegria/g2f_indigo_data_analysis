@@ -1,0 +1,32 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	12470	741	13211	0.69175
+Pseudomonas sp. CIP-10	2892442	S	2667	1376	4043	0.21170
+Pseudomonas corrugata	47879	S	1	0	1	0.00005
+Enterobacter sp. T2	2707174	S	161	209	370	0.01937
+Steroidobacter denitrificans	465721	S	1	0	1	0.00005
+Halomonas sp. JS92-SW72	2306583	S	1	0	1	0.00005
+Ensifer adhaerens	106592	S	13	1	14	0.00073
+Rhizobium sp. TH2	2775403	S	4	0	4	0.00021
+Janthinobacterium agaricidamnosum	55508	S	4	1	5	0.00026
+Burkholderia territorii	1503055	S	1	4	5	0.00026
+Candidatus Korobacter versatilis	658062	S	4	0	4	0.00021
+Paludibaculum fermentans	1473598	S	1	0	1	0.00005
+Aquisphaera giovannonii	406548	S	1	0	1	0.00005
+Filimonas lacunae	477680	S	1	0	1	0.00005
+Nitrospira japonica	1325564	S	1	0	1	0.00005
+Syntrophus buswellii	43774	S	1	0	1	0.00005
+Bacillus cereus	1396	S	1280	1	1281	0.06708
+Sporosarcina ureae	1571	S	1	0	1	0.00005
+Thermoanaerobacter sp. X514	399726	S	1	0	1	0.00005
+Streptomyces chromofuscus	42881	S	6	3	9	0.00047
+Streptomyces broussonetiae	2686304	S	1	0	1	0.00005
+Longispora sp. K20-0274	3088255	S	1	0	1	0.00005
+Amycolatopsis sp. NBC_00345	2975955	S	1	1	2	0.00010
+Arthrobacter sp. MPF02	3388492	S	1	0	1	0.00005
+Microlunatus elymi	2596828	S	1	0	1	0.00005
+Acidimicrobium ferrooxidans	53635	S	1	0	1	0.00005
+Dermatobacter hominis	2884263	S	1	0	1	0.00005
+Conexibacter sp. S30A1	2937800	S	1	0	1	0.00005
+Prochlorococcus marinus	1219	S	1	0	1	0.00005
+Homo sapiens	9606	S	125	0	125	0.00655
+Natrinema sp. SYSU A 869	2871694	S	1	0	1	0.00005

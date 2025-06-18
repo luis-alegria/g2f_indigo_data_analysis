@@ -1,0 +1,1023 @@
+  0.00	1007	1007	S	2583591	                      Mycobacterium tuberculosis complex sp. N0153
+  0.00	10074	0	S	2560608	                Mycobacterium virus Tortellini
+  0.00	10074	10074	S1	1897497	                  Mycobacterium phage Tortellini
+  0.00	10126	10126	S1	2575612	                  Mycobacterium phage Mercurio
+  0.00	1014	1014	S1	1913038	                  Mycobacterium phage SuperGrey
+  0.00	1018	1018	S1	1352596	                      Mycobacterium tuberculosis PanR0908
+  0.00	1021	1021	S1	1334081	                      Mycobacterium tuberculosis 1821ADB41
+  0.00	10226	10226	S1	2911435	                Mycobacterium phage Che12
+  0.00	10317	10317	S	3042319	                    Mycobacterium sp. 2-64
+  0.00	1035	0	S	2741717	                Mycobacterium virus PBI1
+  0.00	1035	1035	S1	373410	                  Mycobacterium phage PBI1
+  0.00	104	104	S1	1262526	                      Mycobacterium tuberculosis PanR0802
+  0.00	104	104	S1	2584498	                  Mycobacterium phage Polka14
+  0.00	1040	1040	S1	1138382	                      Mycobacterium intracellulare MOTT-02
+  0.00	1043	1043	S1	2301571	                  Mycobacterium phage Spikelee
+  0.00	10430	10430	S1	2907832	                Mycobacterium phage Che9c
+  0.00	1044	1044	S1	1097669	                      Mycobacterium tuberculosis UT205
+  0.00	10475	10475	S	1383059	                Mycobacterium phage Adzzy
+  0.00	10487	10487	S	1815972	                Mycobacterium phage ArcherNM
+  0.00	105	105	S1	1334063	                      Mycobacterium tuberculosis TRS17
+  0.00	105	105	S1	663887	                      Mycobacterium tuberculosis KZN V2475
+  0.00	10534	10534	S1	2015820	                  Mycobacterium phage Krueger
+  0.00	10548	10548	S1	1927020	                    Mycobacterium phage MrMagoo
+  0.00	1057	1057	S1	2902889	                Mycobacterium phage Bask21
+  0.00	1060	1060	S1	747368	                      Mycobacterium tuberculosis X122
+  0.00	10673	10673	S1	2652402	                Mycobacterium phage Jeeves
+  0.00	10689	10689	S1	2708633	                  Mycobacterium phage Ximenita
+  0.00	107	0	S	1993880	                Mycobacterium virus Taj
+  0.00	107	107	S1	1204515	                  Mycobacterium phage Taj
+  0.00	1073	1073	S	1755681	                Mycobacterium phage Iracema64
+  0.00	1073	1073	S1	1913044	                  Mycobacterium phage Lukilu
+  0.00	1079	1079	S1	1334074	                      Mycobacterium tuberculosis TRS28
+  0.00	108	108	S1	1089108	                  Mycobacterium phage Vista
+  0.00	108	108	S1	1527580	                  Mycobacterium phage Inventum
+  0.00	108	108	S1	1555233	                  Mycobacterium phage Carcharodon
+  0.00	10801	10801	S1	2759459	                    Mycobacterium phage Estes
+  0.00	10851	10851	S1	1647304	                  Mycobacterium phage FlagStaff
+  0.00	1090	1090	S1	1249615	                      Mycobacterium tuberculosis K
+  0.00	1094	1094	S1	2927990	                Mycobacterium phage Marcell
+  0.00	1098	1098	S1	1334067	                      Mycobacterium tuberculosis TRS21
+  0.00	1100	0	S	1034101	                Mycobacterium virus Dlane
+  0.00	1100	1100	S1	1334052	                      Mycobacterium tuberculosis TRS6
+  0.00	1100	1100	S1	2922203	                  Mycobacterium phage DLane
+  0.00	11031	11031	S	1701853	                Mycobacterium phage Serenity
+  0.00	1104	1104	S1	2902900	                Mycobacterium phage BPBiebs31
+  0.00	1108	1108	S1	2301700	                  Mycobacterium phage KristaRAM
+  0.00	11091	11091	S1	2593351	                  Mycobacterium phage Purky
+  0.00	111	111	S1	1701852	                    Mycobacterium phage Lumos
+  0.00	11110	11110	S1	1458831	                  Mycobacterium phage Jolie2
+  0.00	11117	11117	S	2599866	              Mycobacterium phage IdentityCrisis
+  0.00	11129	11129	S1	2079285	                Mycobacterium phage Rem711
+  0.00	112	112	S1	2923004	                Mycobacterium phage Jeffabunny
+  0.00	11288	11288	S1	2907835	                Mycobacterium phage Omega
+  0.00	113	113	S1	1334076	                      Mycobacterium tuberculosis 1821ADB35
+  0.00	11399	11399	S1	1071503	                Mycobacterium phage Trixie
+  0.00	11403	11403	S	1305738	                    Mycobacterium orygis
+  0.00	11438	11438	S1	2575610	                  Mycobacterium phage Antsirabe
+  0.00	11439	11439	S1	1445729	                Mycobacterium phage 32HC
+  0.00	1146	1146	S	1551711	                  Mycobacterium phage Bipolar
+  0.00	1155	1155	S1	2920883	                Mycobacterium phage George
+  0.00	11563	11563	S1	543152	                  Mycobacterium phage Nigel
+  0.00	1157	1157	S1	2077135	                  Mycobacterium phage HC
+  0.00	1159	1159	S1	1084722	                  Mycobacterium phage BarrelRoll
+  0.00	11606	11606	S1	2517967	                Mycobacterium phage Refuge
+  0.00	1162	1162	S1	2914011	                Mycobacterium phage KBG
+  0.00	1165	1165	S1	1089117	                Mycobacterium phage Blue7
+  0.00	1167	1167	S	1567468	                Mycobacterium phage Edtherson
+  0.00	1168	1168	S1	1334047	                      Mycobacterium tuberculosis TRS1
+  0.00	1168	1168	S1	1897769	                  Mycobacterium phage WillSterrel
+  0.00	11729	11729	S1	2530154	                Mycobacterium phage Veracruz
+  0.00	1175	1175	S1	1334057	                      Mycobacterium tuberculosis TRS11
+  0.00	11759	11759	S1	1089137	                  Mycobacterium phage Stinger
+  0.00	1182	1182	S	1327948	                Mycobacterium phage Chy5
+  0.00	1188	1188	S1	1932895	                  Mycobacterium phage Bubbles123
+  0.00	119	119	S1	2301702	                  Mycobacterium phage Burwell21
+  0.00	11923	11923	S1	1052673	                Mycobacterium phage Thibault
+  0.00	11948	11948	S1	2599886	                  Mycobacterium phage Yunkel11
+  0.00	11953	11953	S1	1214063	                      Mycobacterium intracellulare M.i.198
+  0.00	120	120	S1	1334077	                      Mycobacterium tuberculosis 1821ADB36
+  0.00	1201	1201	S1	1445606	                      Mycobacterium tuberculosis str. Kurono
+  0.00	12019	12019	S1	2725625	                  Mycobacterium phage MarkPhew
+  0.00	12040	12040	S1	1246120	                      Mycobacterium canettii CIPT 140070005
+  0.00	1205	1205	S1	373414	                  Mycobacterium phage Qyrzula
+  0.00	12053	12053	S1	1912975	                Mycobacterium phage DarthPhader
+  0.00	1206	1206	S	1701849	                Mycobacterium phage Turj99
+  0.00	12103	12103	S2	1229671	                        Mycobacterium avium subsp. hominissuis TH135
+  0.00	1216	0	S	861047	                  Mycobacterium virus Bron
+  0.00	1216	1216	S1	2919553	                    Mycobacterium phage LeBron
+  0.00	1218	1218	S1	2742107	                  Mycobacterium phage Jung
+  0.00	12181	12181	S1	2301556	                  Mycobacterium phage Rando14
+  0.00	12183	12183	S1	1354507	                  Mycobacterium phage Adawi
+  0.00	122	122	S	1698714	                    Mycobacterium phage Snenia
+  0.00	12260	12260	S1	1486424	                Mycobacterium phage Bernal13
+  0.00	12284	12284	S1	2015886	                  Mycobacterium phage LastHope
+  0.00	1229	1229	S	1718171	                Mycobacterium phage Pari
+  0.00	123	123	S1	1334068	                      Mycobacterium tuberculosis TRS22
+  0.00	123	123	S1	1352597	                      Mycobacterium tuberculosis PanR0909
+  0.00	123009	123009	S1	1124626	                      Mycobacterium ulcerans subsp. shinshuense
+  0.00	1234	1234	S1	1698357	                  Mycobacterium phage Dante
+  0.00	12340	12340	S1	1567475	                Mycobacterium phage Sbash
+  0.00	1236	1236	S1	1527534	                Mycobacterium phage Swirley
+  0.00	1237	1237	S1	205874	                  Mycobacterium phage Rosebush
+  0.00	1238	1238	S1	1034116	                Mycobacterium phage SirDuracell
+  0.00	124063	124063	S1	243243	                      Mycobacterium avium 104
+  0.00	12440	12440	S1	1327770	                Mycobacterium phage HINdeR
+  0.00	12442	12442	S1	1074309	                  Mycobacterium phage BigNuz
+  0.00	12498	12498	S1	373406	                  Mycobacterium phage Cooper
+  0.00	12537	12537	S1	1541819	                  Mycobacterium phage Omnicron
+  0.00	12540	12540	S1	2099637	                Mycobacterium phage Mendokysei
+  0.00	12563	12563	S1	2510585	                  Mycobacterium phage Nibb
+  0.00	1259	1259	S1	2776877	                  Mycobacterium phage Firehouse51
+  0.00	1260	1260	S1	1089122	                  Mycobacterium phage Gadjet
+  0.00	12610	12610	S1	1698711	                    Mycobacterium phage Lolly9
+  0.00	1263	1263	S1	2920886	                Mycobacterium phage Gladiator
+  0.00	12638	12638	S	2588512	              Mycobacterium phage LilSpotty
+  0.00	1264	1264	S1	1452723	                      Mycobacterium tuberculosis 18b
+  0.00	1264	1264	S1	2922222	                Mycobacterium phage Doom
+  0.00	12677	12677	S1	2530140	                Mycobacterium phage Pharaoh
+  0.00	1273	1273	S1	2902892	                Mycobacterium phage BillKnuckles
+  0.00	1274	1274	S1	1035482	                  Mycobacterium phage OSmaximus
+  0.00	1280	1280	S1	2922987	                  Mycobacterium phage JAWS
+  0.00	1281	1281	S	1647308	                Mycobacterium phage Nerujay
+  0.00	1282	1282	S1	1086800	                Mycobacterium phage Violet
+  0.00	129244	129244	S2	1091046	                      Mycobacteroides abscessus subsp. bolletii BD
+  0.00	12969	12969	S1	2599862	                  Mycobacterium phage Ekdilam
+  0.00	13	13	S1	1334080	                      Mycobacterium tuberculosis 1821ADB40
+  0.00	13	13	S1	2301566	                  Mycobacterium phage JoeyJr
+  0.00	130	130	S1	1352580	                      Mycobacterium tuberculosis PanR0609
+  0.00	1301	1301	S	1815608	                  Mycobacterium phage Brocalys
+  0.00	1302	1302	S1	1034127	                  Mycobacterium phage Adephagia
+  0.00	131	131	S1	2081627	                  Mycobacterium phage Priscilla
+  0.00	1315	1315	S2	262316	                        Mycobacterium avium subsp. paratuberculosis K-10
+  0.00	1320	1320	S1	2656575	                  Mycobacterium phage Eish
+  0.00	1323	1323	S	1873891	                Mycobacterium phage Papez
+  0.00	13235	13235	S1	2762281	                    Mycobacterium phage Aziz
+  0.00	1329	1329	S1	2902905	                Mycobacterium phage Bruns
+  0.00	1335	1335	S1	557599	                    Mycobacterium kansasii ATCC 12478
+  0.00	1339	1339	S1	1675554	                  Mycobacterium phage Pops
+  0.00	134	134	S1	1346779	                      Mycobacterium tuberculosis PanR0314
+  0.00	134	134	S1	1527516	                Mycobacterium phage MarQuardt
+  0.00	134	134	S1	2572533	                  Mycobacterium phage FirstPlacePfu
+  0.00	1341	0	S	1074304	                Mycobacterium virus Liefie
+  0.00	1341	1341	S1	2922994	                  Mycobacterium phage Liefie
+  0.00	1347	1347	S	2583589	                      Mycobacterium tuberculosis complex sp. N0052
+  0.00	1349	1349	S1	1088866	                  Mycobacterium phage Nappy
+  0.00	135	135	S1	1352582	                      Mycobacterium tuberculosis PanR0611
+  0.00	1356	360	S	373407	                Mycobacterium virus Halo
+  0.00	136	136	S1	1344044	                      Mycobacterium tuberculosis PanR0205
+  0.00	13629	13629	S1	1458717	                Mycobacterium phage 40AC
+  0.00	137	137	S1	2047834	                  Mycobacterium phage Andies
+  0.00	137	137	S1	2927981	                Mycobacterium phage Nepal
+  0.00	13749	13749	S1	2250309	                Mycobacterium phage Steamy
+  0.00	13855	0	S	261524	                    Mycobacterium liflandii
+  0.00	13855	13855	S1	459424	                      Mycobacterium liflandii 128FXT
+  0.00	1387	1387	S	1873895	                Mycobacterium phage Gompeii16
+  0.00	13878	13878	S1	2077150	                Mycobacterium phage SWU2
+  0.00	13886	13886	S1	2517936	                  Mycobacterium Phage Niklas
+  0.00	139	139	S1	1445715	                Mycobacterium phage Obama12
+  0.00	1391	0	S	1036614	                Mycobacterium virus Mutaforma13
+  0.00	1391	1391	S1	2922219	                  Mycobacterium phage Mutaforma13
+  0.00	1396	1396	S1	1897500	                  Mycobacterium phage Taquito
+  0.00	1398	1398	S1	2923000	                Mycobacterium phage Courthouse
+  0.00	14008	14008	S1	2725626	                  Mycobacterium phage Chris
+  0.00	14043	14043	S	1340830	                  Mycobacterium phage KayaCho
+  0.00	1407	1407	S1	1138877	                      Mycobacterium tuberculosis 7199-99
+  0.00	14091	14091	S1	2769359	                    Mycobacterium phage CELFI
+  0.00	1410	1410	S1	2182394	                  Mycobacterium phage Byougenkin
+  0.00	1417	1417	S1	2047840	                Mycobacterium phage Koko
+  0.00	142267	98812	S1	1203599	                      Mycobacterium intracellulare subsp. yongonense
+  0.00	1429	0	S	1034107	                Mycobacterium virus Ibhubesi
+  0.00	1429	1429	S1	2922205	                  Mycobacterium phage Ibhubesi
+  0.00	14295	14295	S1	1414747	                  Mycobacterium phage Validus
+  0.00	144	144	S1	1262529	                      Mycobacterium tuberculosis PanR1005
+  0.00	144	144	S1	1352572	                      Mycobacterium tuberculosis PanR0505
+  0.00	144	144	S1	1352575	                      Mycobacterium tuberculosis PanR0603
+  0.00	1440	1440	S1	2163591	                  Mycobacterium phage DillTech15
+  0.00	1445	1445	S1	2922211	                Mycobacterium phage Lesedi
+  0.00	14467	14467	S1	2599859	                  Mycobacterium phage Curiosium
+  0.00	14476	14476	S1	2902794	                  Mycobacterium phage Acadian
+  0.00	1449	1449	S1	2599887	                  Mycobacterium phage Zavala
+  0.00	145	145	S3	1206780	                          Mycobacterium tuberculosis variant bovis BCG str. Korea 1168P
+  0.00	1450	1450	S1	2743931	                  Mycobacterium phage Raymond7
+  0.00	14517	14517	S1	2507856	                  Mycobacterium phage KiSi
+  0.00	146	146	S1	2023953	                  Mycobacterium phage Spoonbill
+  0.00	1461	1461	S1	2094139	                  Mycobacterium phage Paola
+  0.00	1464	1464	S	1391432	                Mycobacterium phage Graduation
+  0.00	1465	1465	S1	2484209	                  Mycobacterium phage Filuzino
+  0.00	1473	1473	S	1675548	                Mycobacterium phage Barriga
+  0.00	14773	14773	S1	2024295	                Mycobacterium phage Kimona
+  0.00	149	0	S	1993860	                Mycobacterium virus Wee
+  0.00	149	149	S1	938131	                  Mycobacterium phage Wee
+  0.00	14915	14915	S	1805459	                Mycobacterium phage Mulciber
+  0.00	1493	1493	S1	2530128	                  Mycobacterium phage Fancypants
+  0.00	14982	14982	S1	2656617	                Mycobacterium phage Yecey3
+  0.00	1507	1507	S1	2664224	                Mycobacterium phage Bluefalcon
+  0.00	151	151	S1	1458710	                  Mycobacterium phage Badfish
+  0.00	151	151	S1	882099	                      Mycobacterium tuberculosis BTB05-552
+  0.00	1513	1513	S1	1074305	                  Mycobacterium phage Dandelion
+  0.00	1513	1513	S1	2902841	                  Mycobacterium phage Avani
+  0.00	1516	1516	S1	2656572	                  Mycobacterium phage Donkeykong
+  0.00	152	152	S1	2047843	                  Mycobacterium phage Philonius
+  0.00	1521	1521	S1	1008298	                    Mycobacterium leprae Kyoto-2
+  0.00	15247	15247	S1	2927982	                  Mycobacterium phage MacnCheese
+  0.00	15248	15248	S1	2108127	                  Mycobacterium phage MooMoo
+  0.00	1526	1526	S1	2922204	                Mycobacterium phage Hammer
+  0.00	15281	15281	S1	1690684	                Mycobacterium phage Phlei
+  0.00	1534	1534	S1	2163590	                  Mycobacterium phage AlishaPH
+  0.00	1542	1542	S1	2301563	                  Mycobacterium phage EleanorGeorge
+  0.00	1544	1544	S1	2593350	                  Mycobacterium phage Obutu
+  0.00	15472	15472	S1	2599882	                    Mycobacterium phage Tourach
+  0.00	1549	1549	S1	2517968	                Mycobacterium phage Scorpia
+  0.00	15512	15512	S1	1429759	                Mycobacterium phage EagleEye
+  0.00	15525	15525	S1	2301619	                  Mycobacterium phage Serendipitous
+  0.00	15538	15538	S1	1983447	                  Mycobacterium phage Shandong1
+  0.00	15573	15573	S1	2077134	                Mycobacterium phage PP
+  0.00	156	156	S1	1352570	                      Mycobacterium tuberculosis PanR0501
+  0.00	1560	1560	S1	2767559	                  Mycobacterium phage Hlubikazi
+  0.00	15628	15628	S1	1589274	                Mycobacterium phage Sheen
+  0.00	15669	15669	S1	2652423	                  Mycobacterium phage Marshawn
+  0.00	156867	156867	S	2492438	                  Mycobacterium novum
+  0.00	1575	1575	S1	2126952	                  Mycobacterium phage Leston
+  0.00	15754	15754	S1	2601610	                Mycobacterium phage Weirdo19
+  0.00	158	158	S1	1698358	                  Mycobacterium phage Brusacoram
+  0.00	1580	1580	S	1429904	                Mycobacterium phage HanShotFirst
+  0.00	15833	15833	S1	1647306	                  Mycobacterium phage Baee
+  0.00	15859	15859	S1	2024303	                Mycobacterium phage MyraDee
+  0.00	159	159	S1	1352579	                      Mycobacterium tuberculosis PanR0607
+  0.00	159	159	S1	1352588	                      Mycobacterium tuberculosis PanR0803
+  0.00	159	159	S1	546806	                  Mycobacterium phage Rizal
+  0.00	1597	1597	S2	572418	                        Mycobacterium tuberculosis variant africanum GM041182
+  0.00	16	16	S1	2301710	                  Mycobacterium phage Nivrat
+  0.00	160	160	S	1391181	                Mycobacterium phage PhatBacter
+  0.00	160	160	S1	2923002	                Mycobacterium phage LHTSCC
+  0.00	160	160	S1	540064	                Mycobacterium phage DD5
+  0.00	16011	16011	S1	2599857	                Mycobacterium phage Anthony
+  0.00	1602	1602	S	1245814	                Mycobacterium phage First
+  0.00	1602	1602	S1	2743928	                Mycobacterium phage Georgie2
+  0.00	16021	16021	S1	1718599	                    Mycobacterium phage Archie
+  0.00	1605	1605	S1	1698712	                  Mycobacterium phage PopTart
+  0.00	1610	1610	S1	2922997	                    Mycobacterium phage Rumpelstiltskin
+  0.00	1616	1616	S1	1246121	                      Mycobacterium canettii CIPT 140070013
+  0.00	1618	1618	S	1551710	                Mycobacterium phage Abrogate
+  0.00	162	162	S	1391429	                Mycobacterium phage Artemis2UCLA
+  0.00	162	162	S1	1352581	                      Mycobacterium tuberculosis PanR0610
+  0.00	162104	162104	S1	216594	                      Mycobacterium marinum M
+  0.00	1630	1630	S1	1334075	                      Mycobacterium tuberculosis TRS29
+  0.00	1643	1643	S1	2923003	                Mycobacterium phage Kugel
+  0.00	165	165	S1	1346767	                      Mycobacterium tuberculosis PanR0410
+  0.00	165	165	S1	1352586	                      Mycobacterium tuberculosis PanR0708
+  0.00	16505	16505	S1	2015824	                  Mycobacterium phage SirPhilip
+  0.00	16545	16545	S1	2599885	                  Mycobacterium phage Yuna
+  0.00	1662	1662	S	1567466	                Mycobacterium phage Alvin
+  0.00	1668	1668	S1	2923006	                  Mycobacterium phage Fionnbharth
+  0.00	16686	16686	S1	1527493	                Mycobacterium phage Sparky
+  0.00	16689	16689	S1	480808	                Mycobacterium phage Giles
+  0.00	1688	1688	S1	1698710	                  Mycobacterium phage HyRo
+  0.00	1689	1689	S1	2743996	                  Mycobacterium phage Soul22
+  0.00	17	17	S1	2775045	                Mycobacterium phage phiT46-1
+  0.00	170	170	S1	1346768	                      Mycobacterium tuberculosis PanR0409
+  0.00	170	170	S1	2725612	                  Mycobacterium phage DRBy19
+  0.00	1710	1710	S	1458726	                Mycobacterium phage 20ES
+  0.00	17112	17112	S	2599870	              Mycobacterium phage MalagasyRose
+  0.00	1718	1718	S1	443150	                      Mycobacterium tuberculosis CCDC5180
+  0.00	172	172	S2	757417	                        Mycobacterium tuberculosis H37RvAE
+  0.00	1727	1727	S1	2922210	                Mycobacterium phage JC27
+  0.00	1728	1728	S1	2686471	                  Mycobacterium phage Mangeria
+  0.00	1729	1729	S1	1673886	                  Mycobacterium phage Apizium
+  0.00	1733	1733	S1	2902842	                  Mycobacterium phage Babsiella
+  0.00	1737	0	S	1034137	                  Mycobacterium virus JoeDirt
+  0.00	1737	1737	S1	2920882	                    Mycobacterium phage JoeDirt
+  0.00	174	174	S1	1340712	                  Mycobacterium phage Breeniome
+  0.00	174	174	S1	1346780	                      Mycobacterium tuberculosis PanR0313
+  0.00	174	174	S1	2301609	                  Mycobacterium phage CharlieB
+  0.00	175	175	S1	1346775	                      Mycobacterium tuberculosis PanR0401
+  0.00	175	175	S1	2301570	                  Mycobacterium phage QuickMath
+  0.00	176	176	S1	1344045	                      Mycobacterium tuberculosis PanR0206
+  0.00	176	176	S1	882100	                      Mycobacterium tuberculosis BTB05-559
+  0.00	1762	1762	S1	2902882	                Mycobacterium phage Baka
+  0.00	176758	176758	S1	1205674	                      Mycobacterium canettii CIPT 140070010
+  0.00	177	177	S1	1352583	                      Mycobacterium tuberculosis PanR0702
+  0.00	177	177	S1	1352599	                      Mycobacterium tuberculosis PanR1007
+  0.00	1771	1771	S1	1698366	                Mycobacterium phage Chadwick
+  0.00	17742	17742	S1	44454	                      Mycobacterium avium subsp. avium
+  0.00	178	178	S1	1346782	                      Mycobacterium tuberculosis PanR0309
+  0.00	1780	1780	S1	1821541	                  Mycobacterium phage Phrann
+  0.00	1782	1782	S	1506716	                  Mycobacterium phage Cheetobro
+  0.00	179	179	S1	1352584	                      Mycobacterium tuberculosis PanR0703
+  0.00	179	179	S1	747367	                      Mycobacterium tuberculosis HN878
+  0.00	1790	1790	S1	701456	                Mycobacterium phage SkiPole
+  0.00	1794	1794	S1	652616	                      Mycobacterium tuberculosis str. Erdman = ATCC 35801
+  0.00	18	18	S	1340820	                  Mycobacterium phage Jabbawokkie
+  0.00	18	18	S2	1087469	                      Mycobacteroides abscessus subsp. bolletii INCQS 00594
+  0.00	1801	1801	S1	2315613	                  Mycobacterium phage ArcusAngelus
+  0.00	181	181	S1	2301547	                  Mycobacterium phage Aggie
+  0.00	18326	18326	S	1089121	              Mycobacterium phage Dori
+  0.00	1834	1834	S1	1445714	                Mycobacterium phage Nyxis
+  0.00	184	184	S1	1262525	                      Mycobacterium tuberculosis PanR0201
+  0.00	184	184	S1	1346772	                      Mycobacterium tuberculosis PanR0404
+  0.00	18485	18485	S1	2283252	                    Mycobacterium phage Bromden
+  0.00	1854	1854	S1	1079894	                  Mycobacterium phage Redi
+  0.00	1859	1859	S1	2902907	                Mycobacterium phage Bxb1
+  0.00	186	186	S1	1344047	                      Mycobacterium tuberculosis PanR0208
+  0.00	186	186	S1	882098	                      Mycobacterium tuberculosis S96-129
+  0.00	1865	1865	S1	2664225	                    Mycobacterium phage DirkDirk
+  0.00	18663	18663	S1	2250291	                  Mycobacterium phage Aminay
+  0.00	18679	18679	S1	45764	                Mycobacterium phage DS6A
+  0.00	186801	186801	S1	1205677	                      Mycobacterium canettii CIPT 140070017
+  0.00	187	187	S1	2656590	                  Mycobacterium phage LilMoolah
+  0.00	188	188	S1	546808	                  Mycobacterium phage Spud
+  0.00	1885	1885	S	1340836	                    Mycobacterium phage Crossroads
+  0.00	1894	1894	S1	2928684	                  Mycobacterium phage TA17A
+  0.00	190	190	S1	1383057	                Mycobacterium phage Goku
+  0.00	1905	1905	S1	1205676	                      Mycobacterium canettii CIPT 140060008
+  0.00	191	191	S1	1352593	                      Mycobacterium tuberculosis PanR0904
+  0.00	191	191	S1	747369	                      Mycobacterium tuberculosis R1207
+  0.00	191021	191021	S	133549	                    Mycobacterium shottsii
+  0.00	192	192	S1	1352585	                      Mycobacterium tuberculosis PanR0707
+  0.00	192	192	S1	1352592	                      Mycobacterium tuberculosis PanR0903
+  0.00	1923	1923	S	1873889	                Mycobacterium phage Makemake
+  0.00	1929	1929	S1	2847995	                Mycobacterium phage MrGordo
+  0.00	1939	1939	S	1327035	                Mycobacterium phage CASbig
+  0.00	194	194	S1	1346771	                      Mycobacterium tuberculosis PanR0405
+  0.00	1951	1951	S1	1429903	                  Mycobacterium phage Bernardo
+  0.00	1972	1972	S1	2041521	                  Mycobacterium phage Bigswole
+  0.00	198	198	S1	1352576	                      Mycobacterium tuberculosis PanR0604
+  0.00	198	198	S1	2907830	                Mycobacterium phage Cjw1
+  0.00	1981	1981	S	1555201	                Mycobacterium phage Equemioh13
+  0.00	199	199	S1	2182393	                  Mycobacterium phage BobaPhett
+  0.00	2	2	S	1168288	                    Mycobacterium sp. H4Y
+  0.00	20	20	S	1340821	                  Mycobacterium phage Velveteen
+  0.00	20	20	S1	1445728	                  Mycobacterium phage Saal
+  0.00	202	202	S1	1352571	                      Mycobacterium tuberculosis PanR0503
+  0.00	20245	20245	S2	1303024	                      Mycobacteroides abscessus subsp. bolletii 50594
+  0.00	2027	2027	S1	2902839	                Mycobacterium phage Arturo
+  0.00	2035	2035	S1	2484216	                  Mycobacterium phage Whouxphf
+  0.00	20364	20364	S1	2664226	                  Mycobacterium phage Quesadilla
+  0.00	2038	2038	S1	2922992	                Mycobacterium phage Cuco
+  0.00	204	204	S	2583593	                      Mycobacterium tuberculosis complex sp. N0157
+  0.00	20454	20454	S1	2483623	                  Mycobacterium phage CRB2
+  0.00	2046	2046	S	1383054	                Mycobacterium phage Wheeler
+  0.00	205	205	S1	1913035	                  Mycobacterium phage Amelie
+  0.00	205	205	S1	2914016	                Mycobacterium phage Kostya
+  0.00	20501	20501	S1	2599860	                    Mycobacterium phage DyoEdafos
+  0.00	20503	20503	S1	1647301	                  Mycobacterium phage Vincenzo
+  0.00	2061	2061	S	1701845	                Mycobacterium phage TheloniousMonk
+  0.00	2065	2065	S1	2500799	                    Mycobacterium phage CicholasNage
+  0.00	20772	20772	S1	1034115	                    Mycobacterium phage Rey
+  0.00	2081	2081	S1	2922218	                Mycobacterium phage Optimus
+  0.00	2096	2096	S2	1232724	                        Mycobacterium intracellulare subsp. intracellulare MTCC 9506
+  0.00	21041	21041	S1	2315616	                  Mycobacterium phage Saguaro
+  0.00	2105	2105	S	1555235	                Mycobacterium phage SweetiePie
+  0.00	2106	2106	S	1675553	                Mycobacterium phage Nhonho
+  0.00	211	211	S	2583590	                      Mycobacterium tuberculosis complex sp. N0072
+  0.00	211	211	S1	1266446	                      Mycobacterium tuberculosis PanR0704
+  0.00	211	211	S1	1352598	                      Mycobacterium tuberculosis PanR1006
+  0.00	21128	21128	S1	2282910	                  Mycobacterium phage Thonko
+  0.00	2119	2119	S1	1673873	                Mycobacterium phage Smeadley
+  0.00	212665	205124	S1	1770	                      Mycobacterium avium subsp. paratuberculosis
+  0.00	2129	2129	S1	1088864	                    Mycobacterium phage Bongo
+  0.00	2134	2134	S1	1262532	                Mycobacterium phage BTCU-1
+  0.00	21438	21438	S1	1458711	                  Mycobacterium phage Hawkeye
+  0.00	21474	21474	S1	2686233	                  Mycobacterium phage Imvubu
+  0.00	21485	21485	S1	2686231	                  Mycobacterium phage BirdsNest
+  0.00	215	215	S1	1913118	                  Mycobacterium phage Empress
+  0.00	215	215	S1	2015833	                  Mycobacterium phage Ksquared
+  0.00	21507	21507	S1	2652422	                  Mycobacterium phage LilMcDreamy
+  0.00	216	216	S	2575357	                  Mycobacterium phage Phineas
+  0.00	216	216	S1	1352589	                      Mycobacterium tuberculosis PanR0804
+  0.00	217	217	S1	2914012	                Mycobacterium phage Lockley
+  0.00	217	217	S3	410289	                          Mycobacterium tuberculosis variant bovis BCG str. Pasteur 1173P2
+  0.00	21740	21740	S1	2499037	                Mycobacterium phage DrLupo
+  0.00	2179	2179	S1	2502450	                Mycobacterium phage JewelBug
+  0.00	218	218	S1	2656556	                  Mycobacterium phage Atcoo
+  0.00	2181	2181	S1	2488784	                Mycobacterium phage Centaur
+  0.00	21879	21879	S1	205880	                Mycobacterium phage Barnyard
+  0.00	219	219	S1	1352594	                      Mycobacterium tuberculosis PanR0906
+  0.00	22071	22071	S1	2079417	                Mycobacterium phage Cuke
+  0.00	22098	22098	S1	2041344	                  Mycobacterium phage Kumao
+  0.00	22098	22098	S1	543153	                Mycobacterium phage Predator
+  0.00	2223	2223	S1	2920893	                    Mycobacterium phage Faith1
+  0.00	22316	22316	S1	2419978	                Mycobacterium phage Fowlmouth
+  0.00	2232	2232	S1	1897501	                  Mycobacterium phage Kersh
+  0.00	2234	2234	S	1735466	                Mycobacterium phage Pepe
+  0.00	224	224	S1	1089136	                  Mycobacterium phage JacAttac
+  0.00	2242	2242	S1	561999	                  Mycobacterium phage Troll4
+  0.00	2257	2257	S2	1427372	                        Mycobacterium tuberculosis variant microti OV254
+  0.00	226	226	S1	1089127	                  Mycobacterium phage Kikipoo
+  0.00	22870	22870	S1	1074308	                Mycobacterium phage Patience
+  0.00	2293	2293	S1	362242	                      Mycobacterium ulcerans Agy99
+  0.00	22969	22969	S1	2686235	                Mycobacterium phage Onyinye
+  0.00	2299	2299	S1	1821539	                  Mycobacterium phage SkinnyPete
+  0.00	2302	2302	S1	2250355	                  Mycobacterium phage Beezoo
+  0.00	2309	2309	S1	2801895	                    Mycobacterium phage OhShagHennessy
+  0.00	2318	2318	S1	2126943	                Mycobacterium phage Fameo
+  0.00	232	232	S1	1346783	                      Mycobacterium tuberculosis PanR0308
+  0.00	232	232	S1	1346785	                      Mycobacterium tuberculosis PanR0306
+  0.00	23231	23231	S1	2656582	                Mycobacterium phage Indlulamithi
+  0.00	233	233	S1	2922993	                Mycobacterium phage Eureka
+  0.00	2334	2334	S1	1891963	                  Mycobacterium phage Gengar
+  0.00	234	234	S1	1346766	                      Mycobacterium tuberculosis PanR0411
+  0.00	235	235	S1	1346788	                      Mycobacterium tuberculosis PanR0301
+  0.00	236	236	S1	1346777	                      Mycobacterium tuberculosis PanR0316
+  0.00	2376	2376	S1	1325953	                    Mycobacterium phage PegLeg
+  0.00	23831	23831	S1	2517971	                Mycobacterium phage Typha
+  0.00	2397	2397	S	1541824	                Mycobacterium phage Ariel
+  0.00	2405	2405	S1	2922998	                Mycobacterium phage Firecracker
+  0.00	2426	2426	S1	1340831	                Mycobacterium phage Dylan
+  0.00	2439	2439	S1	2902840	                Mycobacterium phage Astro
+  0.00	245	0	S	1034145	                Mycobacterium virus RockyHorror
+  0.00	245	245	S1	2920892	                  Mycobacterium phage RockyHorror
+  0.00	24597	24597	S1	2762283	                    Mycobacterium phage Reindeer
+  0.00	246	246	S1	1168595	                Mycobacterium phage Aeneas
+  0.00	2472	2472	S1	2041528	                  Mycobacterium phage Demsculpinboyz
+  0.00	2475	2475	S1	1927024	                Mycobacterium phage Camperdownii
+  0.00	248	248	S1	1034143	                  Mycobacterium phage Phipps
+  0.00	25	25	S2	1306401	                      Mycobacteroides abscessus subsp. bolletii CRM-0020
+  0.00	251	251	S1	478433	                      Mycobacterium tuberculosis KZN 4207
+  0.00	252	252	S1	1352573	                      Mycobacterium tuberculosis PanR0601
+  0.00	2526	2526	S1	2762421	                  Mycobacterium phage Heath
+  0.00	253	253	S1	2588511	                  Mycobacterium phage Fulbright
+  0.00	2533	437	S1	35617	                      Mycobacterium intracellulare subsp. intracellulare
+  0.00	254	254	S1	663560	                  Mycobacterium phage UncleHowie
+  0.00	2548	2548	S1	2907833	                Mycobacterium phage Corndog
+  0.00	2550	2550	S1	1296646	                  Mycobacterium phage Butters
+  0.00	2555	2555	S1	1052671	                  Mycobacterium phage Oline
+  0.00	25634	0	S	1993859	                Mycobacterium virus Wildcat
+  0.00	25634	25634	S1	373415	                  Mycobacterium phage Wildcat
+  0.00	2567	0	S	1993889	                Mycobacterium virus Shauna1
+  0.00	2567	2567	S1	1036615	                  Mycobacterium phage Shauna1
+  0.00	2572	2572	S1	1560285	                Mycobacterium phage Larenn
+  0.00	258	258	S1	1334059	                      Mycobacterium tuberculosis TRS13
+  0.00	258	258	S1	1341711	                      Mycobacterium tuberculosis PanR0202
+  0.00	258	258	S1	1352595	                      Mycobacterium tuberculosis PanR0907
+  0.00	259	259	S1	1344046	                      Mycobacterium tuberculosis PanR0207
+  0.00	2605	2605	S1	2182403	                Mycobacterium phage Priamo
+  0.00	2623	2623	S	1873696	                    Mycobacterium phage Gardann
+  0.00	263	263	S1	1458715	                  Mycobacterium phage Swish
+  0.00	263	263	S1	205877	                  Mycobacterium phage Bxz1
+  0.00	2630	2630	S1	2015882	                  Mycobacterium phage Findley
+  0.00	264	264	S3	717522	                          Mycobacterium tuberculosis variant bovis BCG str. Mexico
+  0.00	2643	2643	S1	1340819	                Mycobacterium phage Catdawg
+  0.00	265	265	S2	757421	                        Mycobacterium tuberculosis H37RvLP
+  0.00	2662	2662	S1	2591129	                  Mycobacterium phage Mahavrat
+  0.00	268	268	S1	659019	                      Mycobacterium tuberculosis W-148
+  0.00	269	269	S1	1542912	                Mycobacterium phage VohminGhazi
+  0.00	2707	2707	S	1340827	                Mycobacterium phage SarFire
+  0.00	271	271	S	1527463	                  Mycobacterium phage Cerasum
+  0.00	2722	2722	S1	1034128	                  Mycobacterium phage Alice
+  0.00	2723	2723	S1	2108121	                  Mycobacterium phage Adonis
+  0.00	2729	2729	S	1340713	                Mycobacterium phage Wanda
+  0.00	274	274	S1	2015875	                  Mycobacterium phage Bartholomew
+  0.00	2743	2743	S1	1034144	                Mycobacterium phage Rockstar
+  0.00	2761	2761	S1	1675551	                  Mycobacterium phage Godines
+  0.00	2764	2764	S1	1718172	                Mycobacterium phage Theia
+  0.00	2768	2768	S	1486473	                  Mycobacterium phage OkiRoe
+  0.00	278	278	S1	1346781	                      Mycobacterium tuberculosis PanR0311
+  0.00	279	279	S1	1391433	                Mycobacterium phage Zaka
+  0.00	2797	2797	S1	83331	                      Mycobacterium tuberculosis CDC1551
+  0.00	28	28	S	1327947	                Mycobacterium phage Chy4
+  0.00	280	0	S	1225861	                Mycobacterium virus Dorothy
+  0.00	280	280	S1	2927992	                  Mycobacterium phage Dorothy
+  0.00	281	281	S	1541823	                  Mycobacterium phage Llama
+  0.00	2859	2859	S	1567473	                  Mycobacterium phage Milly
+  0.00	2869	2869	S1	2500574	                Mycobacterium phage Malec
+  0.00	287	287	S1	1346784	                      Mycobacterium tuberculosis PanR0307
+  0.00	28781	28781	S1	1486472	                Mycobacterium phage Gaia
+  0.00	288	288	S	1357669	                Mycobacterium phage DrDrey
+  0.00	288	288	S1	2653763	                  Mycobacterium phage MinionDave
+  0.00	2882	2882	S1	1306414	                      Mycobacterium tuberculosis EAI5
+  0.00	289	289	S1	1429912	                Mycobacterium phage Jovo
+  0.00	2892	2892	S1	2686232	                Mycobacterium phage Cintron
+  0.00	290	290	S1	1076631	                  Mycobacterium phage Jebeks
+  0.00	290	290	S1	1647311	                Mycobacterium phage Mindy
+  0.00	290	290	S1	2500793	                  Mycobacterium phage Poenanya
+  0.00	2908	2908	S1	373411	                  Mycobacterium phage PLot
+  0.00	2912	2912	S1	2907834	                  Mycobacterium phage Che9d
+  0.00	2919	2919	S1	2902890	                Mycobacterium phage Benedict
+  0.00	292	292	S	1327774	                Mycobacterium phage Phrux
+  0.00	2955	2955	S1	1034151	                  Mycobacterium phage Zemanar
+  0.00	299	299	S1	1346765	                      Mycobacterium tuberculosis PanR0412
+  0.00	29963	29963	S1	1131442	                      Mycobacterium marinum E11
+  0.00	3	3	S2	1168066	                      Mycobacteroides abscessus subsp. bolletii F1725
+  0.00	3013	3013	S1	1983575	                Mycobacterium phage Heffalump
+  0.00	302	302	S1	2419980	                  Mycobacterium phage Lizziana
+  0.00	3044	3044	S1	115862	                      Mycobacterium tuberculosis variant caprae
+  0.00	3053	3053	S1	1536603	                  Mycobacterium phage Estave1
+  0.00	307	307	S1	1391430	                Mycobacterium phage CloudWang3
+  0.00	3072	3072	S1	1354508	                  Mycobacterium phage Bane1
+  0.00	308	308	S1	2047836	                Mycobacterium phage Archetta
+  0.00	309	309	S1	1327938	                  Mycobacterium phage ArcherS7
+  0.00	31	0	S	373412	                Mycobacterium virus PMC
+  0.00	31	31	S1	2911439	                  Mycobacterium phage PMC
+  0.00	3111	3111	S1	2922217	                Mycobacterium phage HelDan
+  0.00	3129	3129	S1	2652404	                  Mycobacterium phage Nitzel
+  0.00	314	314	S1	2590944	                Mycobacterium phage SoilDragon
+  0.00	3156	3156	S1	2656567	                Mycobacterium phage Bugsy
+  0.00	3167	3167	S	1458724	                Mycobacterium phage Alsfro
+  0.00	3170	3170	S1	2530132	                  Mycobacterium phage Kevin1
+  0.00	3177	3177	S1	1445726	                  Mycobacterium phage MichelleMyBell
+  0.00	319	319	S1	663553	                  Mycobacterium phage Colbert
+  0.00	320	320	S1	2920884	                Mycobacterium phage Microwolf
+  0.00	3209	3209	S1	1882439	                  Mycobacterium phage Fortunato
+  0.00	321	321	S1	2250367	                  Mycobacterium phage Sandalphon
+  0.00	322	322	S1	1352590	                      Mycobacterium tuberculosis PanR0805
+  0.00	323	323	S	1698709	                  Mycobacterium phage Enkosi
+  0.00	323163	197861	S	1809	                    Mycobacterium ulcerans
+  0.00	325	325	S1	1079895	                  Mycobacterium phage Pleione
+  0.00	3271	3271	S1	2708631	                  Mycobacterium phage Eponine
+  0.00	3282	0	S	205868	                Mycobacterium virus Che8
+  0.00	3282	3282	S1	2907829	                  Mycobacterium phage Che8
+  0.00	331	331	S1	2719209	                  Mycobacterium phage Veteran
+  0.00	332734	183199	S1	319705	                    Mycobacteroides abscessus subsp. bolletii
+  0.00	333	333	S1	1035485	                Mycobacterium phage Toto
+  0.00	336	336	S1	1346770	                      Mycobacterium tuberculosis PanR0407
+  0.00	338	338	S1	1327936	                  Mycobacterium phage Gizmo
+  0.00	340	340	S1	2126812	                  Mycobacterium phage Batiatus
+  0.00	343	343	S1	2713268	                  Mycobacterium phage Willsammy
+  0.00	344	344	S	1056833	                Mycobacterium phage Wile
+  0.00	345	345	S1	2922996	                Mycobacterium phage Perseus
+  0.00	347	347	S	1327937	                Mycobacterium phage Phaux
+  0.00	3510	3510	S1	1175504	                Mycobacterium phage SWU1
+  0.00	35209	35209	S1	1891703	                  Mycobacterium phage Tonenili
+  0.00	3538	3538	S1	2024302	                  Mycobacterium phage Avocado
+  0.00	354	354	S1	2902881	                Mycobacterium phage Backyardigan
+  0.00	3551	3551	S1	1136880	                      Mycobacterium pseudoshottsii JCM 15466
+  0.00	3551	3551	S1	2599884	                  Mycobacterium phage Xula
+  0.00	3552	3552	S1	2593355	                Mycobacterium phage Zolita
+  0.00	356	356	S1	2041522	                Mycobacterium phage Cerulean
+  0.00	356	356	S1	2488980	                  Mycobacterium phage Zerg
+  0.00	3572	3572	S1	2902904	                  Mycobacterium phage Brujita
+  0.00	3577	0	S	2845658	                Mycobacterium virus ThetaBob
+  0.00	3577	3577	S1	2588513	                  Mycobacterium phage ThetaBob
+  0.00	3585	3585	S	1445727	                Mycobacterium phage Oaker
+  0.00	360	360	S	1327939	                Mycobacterium phage Murphy
+  0.00	3605	3605	S1	1647305	                  Mycobacterium phage Cambiare
+  0.00	361	361	S1	2163593	                  Mycobacterium phage Melissauren88
+  0.00	365510	365510	S	3317307	                    Mycobacterium sp. G7A2
+  0.00	367	367	S1	1296647	                  Mycobacterium phage ShiVal
+  0.00	368847	368847	S1	2480908	                    [Mycobacterium] chelonae subsp. gwanakae
+  0.00	3689	3689	S1	2907831	                Mycobacterium phage Bxz2
+  0.00	3691	3691	S	1463811	                  Mycobacterium phage Hosp
+  0.00	3704	3704	S	1486469	                Mycobacterium phage Damien
+  0.00	3726	3726	S1	2517969	                    Mycobacterium phage Silverleaf
+  0.00	3728	3728	S1	1071504	                Mycobacterium phage Turbido
+  0.00	3741	3741	S	1698417	                Mycobacterium phage Pioneer
+  0.00	3765	3765	S1	1784956	                Mycobacterium phage Bactobuster
+  0.00	377	377	S1	1344048	                      Mycobacterium tuberculosis PanR0209
+  0.00	3777	3777	S1	2315539	                  Mycobacterium phage Grizzly
+  0.00	378	378	S1	1346776	                      Mycobacterium tuberculosis PanR0317
+  0.00	3784	3784	S1	182785	                      Mycobacterium tuberculosis subsp. tuberculosis
+  0.00	379	379	S1	478435	                      Mycobacterium tuberculosis KZN 605
+  0.00	3790	3790	S	1527536	                Mycobacterium phage Trike
+  0.00	38	38	S1	1486474	                  Mycobacterium phage Zapner
+  0.00	3801	3801	S1	2905674	                Mycobacterium phage D29
+  0.00	3802	3802	S	1567005	                Mycobacterium phage MiaZeal
+  0.00	3822	3822	S1	373413	                  Mycobacterium phage Pipefish
+  0.00	38300	38300	S1	1132508	                    Mycobacteroides abscessus UC22
+  0.00	3843	3843	S1	2919554	                  Mycobacterium phage CrimD
+  0.00	3853	3853	S1	2686088	                Mycobacterium phage Phaded
+  0.00	3855	3855	S1	2484215	                  Mycobacterium phage Prithvi
+  0.00	386	386	S1	1556289	                  Mycobacterium phage CaptainTrips
+  0.00	3898	3898	S1	1874015	                  Mycobacterium phage Laurie
+  0.00	390	390	S1	1346778	                      Mycobacterium tuberculosis PanR0315
+  0.00	390	390	S1	2902792	                Mycobacterium phage 244
+  0.00	391	391	S1	1698356	                  Mycobacterium phage Phatniss
+  0.00	391	391	S1	663554	                  Mycobacterium phage ET08
+  0.00	394	394	S	1391180	                Mycobacterium phage Nala
+  0.00	395	395	S1	478434	                      Mycobacterium tuberculosis KZN 1435
+  0.00	3959	3959	S1	2126816	                Mycobacterium phage Naca
+  0.00	397	397	S1	1792253	                Mycobacterium phage Catalina
+  0.00	3985	3985	S1	2027890	                  Mycobacterium phage Apocalypse
+  0.00	3997	3997	S1	1048245	                      Mycobacterium canettii CIPT 140010059
+  0.00	4	4	S1	1334064	                      Mycobacterium tuberculosis TRS18
+  0.00	40	40	S1	2182398	                  Mycobacterium phage Mattes
+  0.00	402	402	S1	2502425	                  Mycobacterium phage Ochi17
+  0.00	4021	4021	S1	561998	                  Mycobacterium phage Gumball
+  0.00	404	404	S1	1429791	                Mycobacterium phage BellusTerra
+  0.00	407	407	S1	2743932	                  Mycobacterium phage Rebel
+  0.00	41	41	S1	663886	                      Mycobacterium tuberculosis KZN R506
+  0.00	413	413	S1	1334065	                      Mycobacterium tuberculosis TRS19
+  0.00	4133	4133	S1	1698252	                  Mycobacterium phage BrownCNA
+  0.00	4144	19	G2	2750823	                    unclassified Mycobacterium tuberculosis complex
+  0.00	41494	41494	S2	1001714	                      Mycobacteroides abscessus subsp. massiliense CCUG 48898 = JCM 15300
+  0.00	415	415	S1	2708630	                  Mycobacterium phage BodEinwohner17
+  0.00	416	416	S1	546803	                  Mycobacterium phage Cali
+  0.00	417	417	S	2583631	                      Mycobacterium tuberculosis complex sp. N0145
+  0.00	417	417	S1	1327766	                  Mycobacterium phage Newman
+  0.00	42018	37563	S1	1765	                      Mycobacterium tuberculosis variant bovis
+  0.00	4213	4213	S1	2994057	                  Mycobacterium phage I3
+  0.00	4246	4246	S1	1560286	                  Mycobacterium phage Murucutumbu
+  0.00	427	427	S1	1334056	                      Mycobacterium tuberculosis TRS10
+  0.00	428	428	S	1327952	                  Mycobacterium phage Leo
+  0.00	4280	4280	S1	2492961	                  Mycobacterium phage Henu3
+  0.00	429	429	S	3042316	                    Mycobacterium sp. 5-140-3-1
+  0.00	429	429	S1	1916120	                Mycobacterium phage LeoAvram
+  0.00	430	430	S1	2315711	                  Mycobacterium phage MilleniumForce
+  0.00	431	431	S1	1334048	                      Mycobacterium tuberculosis TRS2
+  0.00	43115	43115	S1	2591223	                Mycobacterium phage Phrappuccino
+  0.00	4322	4322	S1	563121	                Mycobacterium phage Konstantine
+  0.00	4331	4331	S	1327036	                  Mycobacterium phage WIVsmall
+  0.00	4337	4337	S	1527513	                Mycobacterium phage Minerva
+  0.00	434	434	S	1354514	                Mycobacterium phage Quink
+  0.00	43455	43455	S2	1138871	                        Mycobacterium intracellulare subsp. yongonense 05-1390
+  0.00	4369	4369	S1	2902837	                  Mycobacterium phage Angelica
+  0.00	440	440	S	1486425	                Mycobacterium phage Kampy
+  0.00	4405	0	S	2845654	                Mycobacterium virus Renaud18
+  0.00	4405	4405	S1	2301701	                  Mycobacterium phage Renaud18
+  0.00	4440	4440	S1	2178923	                  Mycobacterium phage Xavia
+  0.00	4452	0	S	1034112	                Mycobacterium virus Mozy
+  0.00	4452	4452	S1	2922213	                  Mycobacterium phage Mozy
+  0.00	4455	2613	S2	33892	                        Mycobacterium tuberculosis variant bovis BCG
+  0.00	446	446	S1	2762409	                  Mycobacterium phage Quasimodo
+  0.00	4474	4474	S1	2094136	                  Mycobacterium phage LaterM
+  0.00	448	448	S1	260120	                Mycobacterium phage U2
+  0.00	4489	4489	S1	2301704	                  Mycobacterium phage Collard
+  0.00	4492	4492	S1	1527520	                Mycobacterium phage Piro94
+  0.00	452	452	S	1089110	                  Mycobacterium phage Akoma
+  0.00	455	455	S	1430411	                Mycobacterium phage HufflyPuff
+  0.00	456	456	S1	2250422	                  Mycobacterium phage KingTut
+  0.00	4568	4568	S1	711470	                Mycobacterium phage RedRock
+  0.00	457	457	S1	2919547	                Mycobacterium phage Pumpkin
+  0.00	45934	45934	S1	2027899	                  Mycobacterium phage Phabba
+  0.00	460	460	S1	2767557	                  Mycobacterium phage Gandalph
+  0.00	46225	46225	S1	546805	                  Mycobacterium phage Myrna
+  0.00	4628	4628	S1	1032895	                Mycobacterium phage Timshel
+  0.00	4651	4651	S1	2656562	                Mycobacterium phage Blinn1
+  0.00	4736	4736	S1	2927991	                Mycobacterium phage Rebeuca
+  0.00	474	474	S1	2301612	                  Mycobacterium phage Galactic
+  0.00	4744	4744	S1	2015874	                  Mycobacterium phage Amohnition
+  0.00	475	475	S	3037257	                    Mycobacterium sp. 5-140-3-2
+  0.00	475	475	S1	1460372	                    Mycobacteroides chelonae CCUG 47445
+  0.00	476	476	S1	419947	                      Mycobacterium tuberculosis H37Ra
+  0.00	4767	4767	S	1076630	                Mycobacterium phage AnnaL29
+  0.00	478	478	S1	1334073	                      Mycobacterium tuberculosis TRS27
+  0.00	479	479	S1	2027893	                  Mycobacterium phage Emma
+  0.00	4792	4792	S1	1606763	                  Mycobacterium phage Kratio
+  0.00	48	48	S1	649688	                  Mycobacterium phage Angel
+  0.00	480	480	S	2686098	                  Mycobacterium phage Megiddo
+  0.00	481	481	S1	1527494	                  Mycobacterium phage Eremos
+  0.00	4816	4816	S1	2744011	                Mycobacterium phage DroogsArmy
+  0.00	4829	3232	S1	33894	                      Mycobacterium tuberculosis variant africanum
+  0.00	4840	4840	S1	2015879	                  Mycobacterium phage DarthP
+  0.00	486	486	S1	2914014	                Mycobacterium phage Jasper
+  0.00	491	0	S	685506	                Mycobacterium virus Ardmore
+  0.00	491	491	S1	1034118	                Mycobacterium phage Switzer
+  0.00	491	491	S1	2902838	                  Mycobacterium phage Ardmore
+  0.00	493	493	S	1354512	                Mycobacterium phage PhrostyMug
+  0.00	4934	4934	S1	2015844	                    Mycobacterium phage Finemlucis
+  0.00	49431	49431	S	1168287	                    Mycobacterium sp. MOTT36Y
+  0.00	496	496	S1	2024296	                  Mycobacterium phage Majeke
+  0.00	5	5	S1	2696373	                  Mycobacterium phage KilKor
+  0.00	500	500	S1	1334071	                      Mycobacterium tuberculosis TRS25
+  0.00	5005	5005	S1	2041517	                Mycobacterium phage Anselm
+  0.00	504	504	S1	2743929	                  Mycobacterium phage Jamie19
+  0.00	505	505	S1	373404	                  Mycobacterium phage Catera
+  0.00	5053	5053	S1	2041524	                Mycobacterium phage Cindaradix
+  0.00	506	506	S1	1739966	                  Mycobacterium phage Sparkdehlily
+  0.00	506	506	S1	336982	                      Mycobacterium tuberculosis F11
+  0.00	5060	5060	S1	1161933	                Mycobacterium phage Twister
+  0.00	508	508	S1	1821538	                  Mycobacterium phage Xeno
+  0.00	51	51	S	1739967	                  Mycobacterium phage Cabrinians
+  0.00	512	512	S3	561275	                          Mycobacterium tuberculosis variant bovis BCG str. Tokyo 172
+  0.00	5130	5130	S	1327776	                Mycobacterium phage Severus
+  0.00	516	516	S	1327772	                Mycobacterium phage Jobu08
+  0.00	5174	5174	S1	2499071	                Mycobacterium phage Zetzy
+  0.00	5235	5235	S1	2920891	                  Mycobacterium phage Yoshi
+  0.00	524	524	S	1340708	                  Mycobacterium phage Bobi
+  0.00	525	525	S	1034149	                  Mycobacterium phage Vortex
+  0.00	5261	0	S	2845656	                Mycobacterium virus Squirty
+  0.00	5261	5261	S1	1527512	                  Mycobacterium phage Squirty
+  0.00	527	527	S1	2922220	                Mycobacterium phage EricB
+  0.00	5295	5295	S	1463809	                  Mycobacterium phage 39HC
+  0.00	5299	5299	S2	1010838	                        Mycobacterium avium subsp. paratuberculosis S397
+  0.00	533398	533398	S	1138383	                    Mycobacterium paraintracellulare
+  0.00	534	534	S1	1427516	                      Mycobacterium tuberculosis 49-02
+  0.00	5351	5351	S1	2283261	                  Mycobacterium phage Thyatira
+  0.00	536	536	S1	2301608	                Mycobacterium phage Wizard007
+  0.00	537	537	S1	2920885	                Mycobacterium phage JHC117
+  0.00	5374	5374	S	1815969	                Mycobacterium phage Loser
+  0.00	538	538	S1	1088865	                  Mycobacterium phage MoMoMixon
+  0.00	5442	5442	S1	1897540	                Mycobacterium phage Mundrea
+  0.00	545	0	S	1993888	                Mycobacterium virus Shilan
+  0.00	545	545	S1	1036616	                  Mycobacterium phage ShiLan
+  0.00	5456	5456	S1	2922215	                  Mycobacterium phage Pixie
+  0.00	55	55	S1	1821540	                  Mycobacterium phage Pipsqueaks
+  0.00	550	550	S1	1056830	                  Mycobacterium phage Charlie
+  0.00	556	556	S1	2767561	                  Mycobacterium phage Moonbeam
+  0.00	5569	5569	S1	2283292	                Mycobacterium phage Ryadel
+  0.00	557	557	S	1679530	                Mycobacterium phage NelitzaMV
+  0.00	56	56	S1	2517970	                  Mycobacterium phage SwagPigglett
+  0.00	56	56	S1	373409	                  Mycobacterium phage Orion
+  0.00	560	560	S1	1567472	                  Mycobacterium phage Malithi
+  0.00	5614	5614	S1	1647313	                  Mycobacterium phage ShedlockHolmes
+  0.00	564	564	S1	546807	                  Mycobacterium phage ScottMcG
+  0.00	5657	5657	S1	1471542	                Mycobacterium phage MosMoris
+  0.00	567	567	S1	1414748	                  Mycobacterium phage Suffolk
+  0.00	5674	5674	S1	1034139	                Mycobacterium phage Marvin
+  0.00	5686	5686	S1	1429905	                  Mycobacterium phage JAMaL
+  0.00	570	570	S1	2502470	                  Mycobacterium phage NoodleTree
+  0.00	5782	5782	S1	1897549	                  Mycobacterium phage Taheera
+  0.00	579	579	S	591487	                  Mycobacterium phage Phlyer
+  0.00	581	581	S1	1675549	                  Mycobacterium phage Florinda
+  0.00	584	0	S	1993864	                Mycobacterium virus Tweety
+  0.00	584	0	S	563119	                Mycobacterium virus Fruitloop
+  0.00	584	584	S1	2914018	                  Mycobacterium phage Fruitloop
+  0.00	584	584	S1	439809	                  Mycobacterium phage Tweety
+  0.00	5859	5859	S1	1647302	                  Mycobacterium phage Phayonce
+  0.00	595	595	S1	2922214	                Mycobacterium phage Museum
+  0.00	5958	5958	S1	1034130	                  Mycobacterium phage ChrisnMich
+  0.00	5962	5962	S1	1912978	                  Mycobacterium phage Urkel
+  0.00	5978	5978	S1	2024005	                  Mycobacterium phage Bella96
+  0.00	599	599	S1	1327777	                  Mycobacterium phage SiSi
+  0.00	60	60	S1	2283295	                  Mycobacterium phage Gorge
+  0.00	60	60	S2	757418	                        Mycobacterium tuberculosis H37RvMA
+  0.00	6000	6000	S	1718166	                Mycobacterium phage LadyBird
+  0.00	601	601	S1	1334082	                      Mycobacterium tuberculosis 1821ADB42
+  0.00	61	0	S	1074303	                Mycobacterium virus Drago
+  0.00	61	61	S1	2922995	                  Mycobacterium phage Drago
+  0.00	610	610	S1	2920887	                Mycobacterium phage Wonder
+  0.00	613	613	S1	2041544	                  Mycobacterium phage Phasih
+  0.00	6146	6146	S1	2923007	                Mycobacterium phage Saintus
+  0.00	614618	614618	S	3385967	                    Mycobacterium sp. SMC-16
+  0.00	6157	6157	S	28045	                  Mycobacterium celatum
+  0.00	616	616	S1	1334061	                      Mycobacterium tuberculosis TRS15
+  0.00	616	616	S1	2790994	                  Mycobacterium phage Plumbus
+  0.00	6167	6167	S1	2725640	                Mycobacterium phage MA5
+  0.00	619	619	S1	1334072	                      Mycobacterium tuberculosis TRS26
+  0.00	62	62	S1	1662284	                  Mycobacterium phage Kimberlium
+  0.00	6245	6245	S1	2126722	                Mycobacterium phage Pistachio
+  0.00	627	627	S1	1010834	                      Mycobacterium tuberculosis HKBS1
+  0.00	63	63	S	1340822	                  Mycobacterium phage Daenerys
+  0.00	632	0	S	373408	                Mycobacterium virus Llij
+  0.00	632	632	S1	1346787	                      Mycobacterium tuberculosis PanR0304
+  0.00	632	632	S1	2681623	                  Mycobacterium phage Llij
+  0.00	632	632	S1	2920890	                Mycobacterium phage PackMan
+  0.00	6338	6338	S1	1718600	                  Mycobacterium phage Mufasa
+  0.00	634	634	S1	395095	                      Mycobacterium tuberculosis str. Haarlem
+  0.00	635	635	S1	2656569	                  Mycobacterium phage Chuckly
+  0.00	636	636	S1	1086749	                Mycobacterium phage Dreamboat
+  0.00	6372	6372	S1	1821723	                Mycobacterium phage EvilGenius
+  0.00	638	638	S1	2592659	                  Mycobacterium phage Doug
+  0.00	641	0	S	546182	                Mycobacterium virus Boomer
+  0.00	641	641	S1	2902893	                  Mycobacterium phage Boomer
+  0.00	644	0	S	563123	                Mycobacterium virus Ramsey
+  0.00	644	644	S1	1334055	                      Mycobacterium tuberculosis TRS9
+  0.00	644	644	S1	2914020	                  Mycobacterium phage Ramsey
+  0.00	645	645	S1	1821727	                  Mycobacterium phage Shipwreck
+  0.00	6462	6462	S1	1486426	                Mycobacterium phage Phantastic
+  0.00	649	649	S1	1010835	                      Mycobacterium tuberculosis BT2
+  0.00	6490	6490	S	1458841	                Mycobacterium phage CRB1
+  0.00	650	650	S1	443149	                      Mycobacterium tuberculosis CCDC5079
+  0.00	651	651	S1	1536598	                  Mycobacterium phage BuzzLyseyear
+  0.00	654	654	S1	2099321	                    [Mycobacterium] chelonae subsp. chelonae
+  0.00	656	656	S1	2517951	                  Mycobacterium phage GreaseLightnin
+  0.00	66	0	S	1071505	                Mycobacterium virus GUmbie
+  0.00	66	66	S1	1327765	                  Mycobacterium phage Fishburne
+  0.00	66	66	S1	1334069	                      Mycobacterium tuberculosis TRS23
+  0.00	66	66	S1	2922991	                  Mycobacterium phage GUmbie
+  0.00	6621	6621	S1	1205675	                      Mycobacterium canettii CIPT 140070008
+  0.00	664	664	S1	2768139	                  Mycobacterium phage Royals2015
+  0.00	666	666	S1	2126954	                  Mycobacterium phage OwlsT2W
+  0.00	67	67	S1	213236	                  Mycobacterium phage PG1
+  0.00	67	67	S2	757419	                        Mycobacterium tuberculosis H37RvCO
+  0.00	670	670	S1	1352578	                      Mycobacterium tuberculosis PanR0606
+  0.00	6716	6716	S1	2015885	                    Mycobacterium phage Krypton555
+  0.00	673	673	S1	1458725	                  Mycobacterium phage Soto
+  0.00	677	677	S1	2301565	                  Mycobacterium phage Girr
+  0.00	6786	0	S	2845657	                Mycobacterium virus TChen
+  0.00	6786	6786	S1	2163598	                  Mycobacterium phage TChen
+  0.00	680	680	S1	2919546	                Mycobacterium phage Peaches
+  0.00	681	681	S1	2902891	                Mycobacterium phage Bethlehem
+  0.00	682	682	S1	2502469	                  Mycobacterium phage QBert
+  0.00	6822	6822	S1	2599880	                  Mycobacterium phage ThulaThula
+  0.00	6833	6833	S1	1673876	                Mycobacterium phage UnionJack
+  0.00	685	685	S1	1334050	                      Mycobacterium tuberculosis TRS4
+  0.00	688	0	S	563122	                Mycobacterium virus Pacc40
+  0.00	688	688	S1	2914019	                  Mycobacterium phage Pacc40
+  0.00	695	0	S	1089120	                Mycobacterium virus DeadP
+  0.00	695	695	S1	2922999	                  Mycobacterium phage DeadP
+  0.00	6951	6951	S1	2015819	                    Mycobacterium phage GuuelaD
+  0.00	696	696	S	1327771	                  Mycobacterium phage Job42
+  0.00	700	700	S	1327773	                Mycobacterium phage PattyP
+  0.00	701	701	S1	1698715	                  Mycobacterium phage XFactor
+  0.00	701	701	S1	707235	                      Mycobacterium tuberculosis CTRI-2
+  0.00	704	704	S3	413996	                          Mycobacterium tuberculosis variant bovis BCG str. Moreau RDJ
+  0.00	7072	0	S	2845648	                Mycobacterium virus Cornie
+  0.00	7072	7072	S1	2015810	                  Mycobacterium phage Hurricane
+  0.00	7072	7072	S1	2704043	                  Mycobacterium phage Cornie
+  0.00	7085	7085	S1	2902800	                Mycobacterium phage Alma
+  0.00	71	71	S1	1334060	                      Mycobacterium tuberculosis TRS14
+  0.00	710	710	S1	1352587	                      Mycobacterium tuberculosis PanR0801
+  0.00	7161	7161	S1	2499042	                Mycobacterium phage IronMan
+  0.00	719	719	S1	2914015	                Mycobacterium phage Porky
+  0.00	72	72	S1	459420	                      Mycobacterium marinum DL240490
+  0.00	722	722	S1	1340824	                  Mycobacterium phage Hamulus
+  0.00	7220	7220	S1	2024294	                Mycobacterium phage JoshKayV
+  0.00	722289	722289	S	3385969	                    Mycobacterium sp. SMC-11
+  0.00	7254	7254	S1	2517961	                Mycobacterium phage Miramae
+  0.00	726	726	S1	2027900	                  Mycobacterium phage RitaG
+  0.00	727	727	S1	2282909	                  Mycobacterium phage Harley
+  0.00	7274	7274	S	1458846	                Mycobacterium phage RhynO
+  0.00	73	73	S1	2530143	                  Mycobacterium phage Rabbs
+  0.00	735	735	S1	1383055	                  Mycobacterium phage Phelemich
+  0.00	741	741	S1	1821537	                  Mycobacterium phage Panchino
+  0.00	7469	7469	S	1340709	                Mycobacterium phage Redno2
+  0.00	748	748	S1	1679524	                Mycobacterium phage Dusk
+  0.00	749	749	S1	1340828	                  Mycobacterium phage Reprobate
+  0.00	7505	7505	S	3042317	                    Mycobacterium sp. 3-98
+  0.00	75108	32711	S1	1962118	                    Mycobacteroides abscessus subsp. massiliense
+  0.00	753	753	S1	1074307	                  Mycobacterium phage LinStu
+  0.00	7541	7541	S1	2902832	                  Mycobacterium phage Anaya
+  0.00	755	755	S1	1334083	                      Mycobacterium tuberculosis 1821ADB44
+  0.00	7566	7566	S1	2572317	                Mycobacterium phage Noelle
+  0.00	7569	7569	S1	1246119	                      Mycobacterium canettii CIPT 140070002
+  0.00	761	761	S1	1352574	                      Mycobacterium tuberculosis PanR0602
+  0.00	7610	7610	S1	1805457	                Mycobacterium phage Bipper
+  0.00	7612	0	S	1993872	                Mycobacterium virus TM4
+  0.00	7612	7612	S1	88870	                  Mycobacterium phage TM4
+  0.00	769	769	S1	2419614	                  Mycobacterium phage Sauce
+  0.00	777	777	S	1698420	                Mycobacterium phage Tasp14
+  0.00	7787	7787	S1	1486427	                  Mycobacterium phage ZoeJ
+  0.00	7805	7805	S1	1920305	                Mycobacterium phage Taptic
+  0.00	7826	7826	S1	1983577	                Mycobacterium phage PurpleHaze
+  0.00	785	785	S	1070990	                Mycobacterium phage Lilac
+  0.00	787	787	S1	1327762	                  Mycobacterium phage Astraea
+  0.00	788	788	S	1468169	                Mycobacterium phage Lamina13
+  0.00	7890	7890	S1	2301548	                  Mycobacterium phage Cane17
+  0.00	79	79	S	1873887	                  Mycobacterium phage Sneeze
+  0.00	79	79	S1	2079284	                  Mycobacterium phage OldBen
+  0.00	7927	7927	S1	1340826	                    Mycobacterium phage Whirlwind
+  0.00	7927	7927	S1	2108123	                Mycobacterium phage Jeon
+  0.00	793	793	S1	1334051	                      Mycobacterium tuberculosis TRS5
+  0.00	793	793	S1	2283297	                  Mycobacterium phage Mantra
+  0.00	793097	793097	S	3064288	                  [Mycobacterium] holstebronense
+  0.00	794	794	S1	1429793	                  Mycobacterium phage Donovan
+  0.00	795	795	S1	1334070	                      Mycobacterium tuberculosis TRS24
+  0.00	795	795	S1	2041518	                  Mycobacterium phage Arib1
+  0.00	7956	7956	S1	2517965	                  Mycobacterium phage Pinnie
+  0.00	7981	7981	S1	1383056	                Mycobacterium phage Papyrus
+  0.00	7982	7982	S1	1647309	                  Mycobacterium phage MOOREtheMARYer
+  0.00	799	799	S	1458714	                Mycobacterium phage Seabiscuit
+  0.00	800	800	S	1340825	                Mycobacterium phage Trouble
+  0.00	8001	8001	S1	2530139	                  Mycobacterium phage Patt
+  0.00	804	804	S1	1352591	                      Mycobacterium tuberculosis PanR0902
+  0.00	807	807	S1	1352577	                      Mycobacterium tuberculosis PanR0605
+  0.00	8090	8090	S1	1305710	                Mycobacterium phage FF47
+  0.00	81	81	S	1391179	                Mycobacterium phage Bruin
+  0.00	811	811	S1	1334053	                      Mycobacterium tuberculosis TRS7
+  0.00	813201	813201	S1	1185650	                    Mycobacteroides abscessus subsp. abscessus
+  0.00	8197	8197	S1	2762405	                  Mycobacterium phage Ellie
+  0.00	8236	8236	S1	1034146	                Mycobacterium phage Send513
+  0.00	824	824	S1	1346786	                      Mycobacterium tuberculosis PanR0305
+  0.00	8254	8254	S1	1340829	                Mycobacterium phage Muddy
+  0.00	8263	8263	S1	1567471	                  Mycobacterium phage Keshu
+  0.00	83	83	S1	2250364	                  Mycobacterium phage OlympiaSaint
+  0.00	830	0	S	1097752	                Mycobacterium virus DotProduct
+  0.00	830	830	S1	1334078	                      Mycobacterium tuberculosis 1821ADB37
+  0.00	830	830	S1	1486403	                  Mycobacterium phage Manad
+  0.00	830	830	S1	2923008	                  Mycobacterium phage DotProduct
+  0.00	8329	8329	S1	2653755	                  Mycobacterium phage Bryler
+  0.00	836	836	S1	272631	                    Mycobacterium leprae TN
+  0.00	840	840	S1	2922223	                Mycobacterium phage Euphoria
+  0.00	844	844	S1	2591074	                Mycobacterium phage Benvolio
+  0.00	851	851	S	1437839	                Mycobacterium phage Echild
+  0.00	8542	8542	S1	1246634	                      Mycobacterium canettii CIPT 140070007
+  0.00	857	857	S1	555603	                Mycobacterium phage Solon
+  0.00	860	860	S1	1334079	                      Mycobacterium tuberculosis 1821ADB38
+  0.00	860	860	S1	2656561	                  Mycobacterium phage Blexus
+  0.00	864	864	S	1327764	                Mycobacterium phage Dumbo
+  0.00	8640	8640	S1	2015817	                  Mycobacterium phage Amgine
+  0.00	865	865	S1	1346774	                      Mycobacterium tuberculosis PanR0402
+  0.00	869	0	S	1993884	                Mycobacterium virus Spartacus
+  0.00	869	869	S1	1147141	                  Mycobacterium phage Spartacus
+  0.00	870	870	S	1527535	                Mycobacterium phage Tiffany
+  0.00	873	873	S1	1673889	                  Mycobacterium phage Ovechkin
+  0.00	8739	8739	S1	2927989	                Mycobacterium phage Goose
+  0.00	875	875	S	1698713	                  Mycobacterium phage Seagreen
+  0.00	8753	8753	S1	487521	                      Mycobacterium intracellulare ATCC 13950
+  0.00	879	879	S1	1010836	                      Mycobacterium tuberculosis BT1
+  0.00	880	880	S	1675555	                  Mycobacterium phage Quico
+  0.00	8858	8858	S1	2922212	                Mycobacterium phage LittleE
+  0.00	886	886	S1	1527511	                  Mycobacterium phage Hades
+  0.00	888	888	S	1698441	                Mycobacterium phage Rufus
+  0.00	89	89	S	1391431	                Mycobacterium phage Conspiracy
+  0.00	89	89	S1	2301545	                  Mycobacterium phage Tapioca
+  0.00	890	233	S1	83332	                      Mycobacterium tuberculosis H37Rv
+  0.00	892	892	S1	1071506	                Mycobacterium phage RidgeCB
+  0.00	892	892	S1	1089113	                  Mycobacterium phage Athena
+  0.00	892	892	S1	1344043	                      Mycobacterium tuberculosis PanR0203
+  0.00	8950	8950	S	1354510	                Mycobacterium phage Fredward
+  0.00	900	900	S1	1334054	                      Mycobacterium tuberculosis TRS8
+  0.00	9009	9009	S1	1897486	                Mycobacterium phage BabyRay
+  0.00	902	902	S1	2283296	                  Mycobacterium phage Krakatau
+  0.00	903	903	S2	1198627	                      Mycobacteroides abscessus subsp. massiliense str. GO 06
+  0.00	904	904	S	1498204	                Mycobacterium phage Pinto
+  0.00	9074	9074	S1	1647300	                Mycobacterium phage Luchador
+  0.00	91	91	S1	2027894	                  Mycobacterium phage Geralt
+  0.00	913	913	S1	1176425	                Mycobacterium phage ICleared
+  0.00	913	913	S1	2922216	                Mycobacterium phage KSSJEB
+  0.00	921	921	S1	1346773	                      Mycobacterium tuberculosis PanR0403
+  0.00	925	0	S	1089132	                Mycobacterium virus SG4
+  0.00	925	925	S1	2923001	                  Mycobacterium phage SG4
+  0.00	927	927	S2	1199187	                        Mycobacterium avium subsp. paratuberculosis MAP4
+  0.00	93	93	S2	1437856	                        Mycobacterium tuberculosis H37RvSiena
+  0.00	930	930	S1	1340818	                Mycobacterium phage LittleCherry
+  0.00	936	936	S1	2653764	                  Mycobacterium phage Minnie
+  0.00	9364	9364	S1	1897548	                Mycobacterium phage Stasia
+  0.00	937	937	S	546184	                  Mycobacterium phage Phaedrus
+  0.00	937	937	S1	1161934	                Mycobacterium phage Tiger
+  0.00	939	939	S	2583592	                      Mycobacterium tuberculosis complex sp. N0155
+  0.00	94	94	S	1340833	                Mycobacterium phage Contagion
+  0.00	9409	7152	S1	1806	                      Mycobacterium tuberculosis variant microti
+  0.00	946	946	S1	1052672	                  Mycobacterium phage Sebata
+  0.00	948	948	S1	2911433	                  Mycobacterium phage Halo
+  0.00	95451	91900	S	265949	                    Mycobacterium pseudoshottsii
+  0.00	957	957	S1	1334062	                      Mycobacterium tuberculosis TRS16
+  0.00	9578	9578	S1	2914013	                Mycobacterium phage Pukovnik
+  0.00	962	962	S1	1334066	                      Mycobacterium tuberculosis TRS20
+  0.00	967	967	S1	1334058	                      Mycobacterium tuberculosis TRS12
+  0.00	974	974	S1	2027903	                  Mycobacterium phage Wachhund
+  0.00	976	976	S1	1354511	                Mycobacterium phage Anubis
+  0.00	9804	9804	S1	2922990	                  Mycobacterium phage Larva
+  0.00	987	987	S1	1352600	                      Mycobacterium tuberculosis PanR1101
+  0.00	9900	9900	S1	2599868	                  Mycobacterium phage Lemuria
+  0.00	9902	9902	S1	2743994	                Mycobacterium phage Gail
+  0.00	992	992	S1	1334084	                      Mycobacterium tuberculosis 1821ADB45
+  0.00	9942	9942	S1	2315544	                  Mycobacterium phage Paito
+  0.00	9972	9972	S1	1463812	                  Mycobacterium phage Julie1
+  0.00	9994	9994	S1	2015825	                  Mycobacterium phage Unicorn
+  0.01	1043024	1043024	S	3064287	                  [Mycobacterium] kokjensenii
+  0.01	1043613	1043613	S	53376	                    Mycobacterium heidelbergense
+  0.01	1068153	662304	S	78331	                    Mycobacterium canetti
+  0.01	1076961	1076961	S	590652	                  Mycobacterium paraseoulense
+  0.01	1077951	1077951	S	398694	                  Mycobacterium shinjukuense
+  0.01	1096892	0	S	339268	                    Mycobacterium colombiense
+  0.01	1096892	1096892	S1	1041522	                      Mycobacterium colombiense CECT 3035
+  0.01	1113948	1113948	S	2099695	                    Mycobacterium sp. ITM-2016-00316
+  0.01	1120502	0	S	29311	                  Mycobacterium haemophilum
+  0.01	1120502	1120502	S1	1202450	                    Mycobacterium haemophilum DSM 44634
+  0.01	1125562	1125562	S	701042	                    Mycobacterium marseillense
+  0.01	1126577	1126577	S	2775496	                    Mycobacterium senriense
+  0.01	1146233	1146233	S	1789	                  Mycobacterium xenopi
+  0.01	1157626	1157626	S	761804	                    Mycobacterium europaeum
+  0.01	1172962	1172962	S	3378087	                    Mycobacterium sp. M23085
+  0.01	1185002	1185002	S	1578165	                  Mycobacteroides saopaulense
+  0.01	1185564	1185564	S	1780	                  Mycobacterium malmoense
+  0.01	1197688	1197688	S	2675524	                    Mycobacterium sp. DL592
+  0.01	1224166	1212063	S1	439334	                      Mycobacterium avium subsp. hominissuis
+  0.01	1225685	1225685	S	404941	                  Mycobacteroides salmoniphilum
+  0.01	1233338	1233338	S	169765	                  Mycobacterium lacus
+  0.01	1247052	1247052	S	3064284	                  [Mycobacterium] wendilense
+  0.01	1247980	1247980	S	2099694	                    Mycobacterium sp. ITM-2016-00317
+  0.01	1271693	1271693	S	459858	                  Mycobacterium noviomagense
+  0.01	1289720	1289720	S	2738409	                  Mycobacterium ostraviense
+  0.01	1294733	1294733	S	2991728	                    Mycobacterium sp. Aquia_213
+  0.01	1312428	1312428	S	2867005	                    Mycobacterium sp. IDR2000157661
+  0.01	1318456	1318456	S	3391399	                    Mycobacterium sp. PDNC021
+  0.01	1332244	1332244	S	292462	                    Mycobacterium florentinum
+  0.01	1332718	1332718	S	2857058	                    Mycobacterium sp. SMC-2
+  0.01	1336006	1336006	S	3289775	                    Mycobacterium sp. HNNTM2301
+  0.01	1339064	1339064	S	2943498	                  Candidatus Mycobacterium methanotrophicum
+  0.01	1344144	1344144	S	3027808	                  Candidatus Mycobacterium wuenschmannii
+  0.01	1344422	1344422	S	560555	                    Mycobacterium mantenii
+  0.01	1345736	1345736	S	2975989	                    Mycobacterium sp. NBC_00419
+  0.01	1350538	1350538	S	39689	                  Mycobacterium gallinarum
+  0.01	1360629	1360629	S	110505	                  Mycobacterium heckeshornense
+  0.01	1370910	1370910	S	1547487	                    Mycobacterium sp. ELW1
+  0.01	1376366	1376366	S	185642	                    Mycobacterium parmense
+  0.01	1377931	1377931	S	1430326	                  Mycobacterium decipiens
+  0.01	1389319	1389319	S	722731	                    Mycobacterium shigaense
+  0.01	1395595	1395595	S	3064286	                  [Mycobacterium] burgundiense
+  0.01	1409234	1409234	S	470076	                    Mycobacterium stomatepiae
+  0.01	1423724	1423724	S	3122055	                    Mycobacterium sp. AMU20-3851
+  0.01	1429065	1429065	S	141349	                    Mycobacterium lentiflavum
+  0.01	1430722	1430722	S	1775	                  Mycobacterium cookii
+  0.01	1433708	1433708	S	1682113	                  Mycobacterium adipatum
+  0.01	1479152	1479152	S	2675523	                    Mycobacterium sp. DL440
+  0.01	1485600	1485600	S	2857060	                    Mycobacterium sp. SMC-8
+  0.01	1498326	1498326	S	2099693	                    Mycobacterium sp. ITM-2016-00318
+  0.01	1500783	1500783	S	220927	                    Mycobacterium saskatchewanense
+  0.01	1505269	1505269	S	886343	                  Mycobacterium spongiae
+  0.01	1505811	1505811	S	2857059	                    Mycobacterium sp. SMC-4
+  0.01	1507760	1507760	S	577492	                  Mycobacterium paraterrae
+  0.01	1509206	1509206	S	2991729	                    Mycobacterium sp. Aquia_216
+  0.01	1511839	1511839	S	1545728	                    Mycobacterium sp. EPa45
+  0.01	1523676	1523676	S	1784	                    Mycobacterium simiae
+  0.01	1524775	1524775	S	2094119	                  Mycobacterium basiliense
+  0.01	1535403	1535403	S	44010	                  Mycobacterium conspicuum
+  0.01	1565888	1565888	S	43348	                  Mycobacterium branderi
+  0.01	1592672	1592672	S	3073562	                    Mycobacterium sp. Z3061
+  0.01	1636316	1636316	S	3145017	                    Mycobacterium sp. DL
+  0.01	1640976	1640976	S	2903536	                    Mycobacterium sp. 20KCMC460
+  0.01	1689605	1689605	S	1389713	                  Mycobacterium paragordonae
+  0.01	1699314	1697979	S	1768	                  Mycobacterium kansasii
+  0.01	1702745	1702745	S	1719132	                  Mycobacterium vicinigordonae
+  0.01	1715836	1715836	S	83262	                  Mycobacteroides immunogenum
+  0.01	1838098	1838098	S	1778	                  Mycobacterium gordonae
+  0.01	1863179	1863179	S	1936029	                    Mycobacterium sp. MS1601
+  0.01	1912675	1912675	S	486698	                  Mycobacterium riyadhense
+  0.01	1980272	1980272	S	120959	                    Mycobacterium kubicae
+  0.01	2035025	2035025	S	212767	                    Mycobacterium sp. JS623
+  0.01	2069498	994624	S	1767	                    Mycobacterium intracellulare
+  0.01	2104146	2104146	S	482462	                  Mycobacterium dioxanotrophicus
+  0.01	891587	891587	S	480418	                  Mycobacterium lepromatosis
+  0.01	895527	893170	S	1769	                  Mycobacterium leprae
+  0.01	896501	763212	S	1773	                    Mycobacterium tuberculosis
+  0.01	902724	902724	S	386911	                  Mycobacterium seoulense
+  0.01	908328	908328	S1	222805	                      Mycobacterium intracellulare subsp. chimaera
+  0.01	911599	911599	S	1520670	                  [Mycobacterium] stephanolepidis
+  0.01	927799	927799	S	3385968	                    Mycobacterium sp. SMC-14
+  0.01	966665	774526	S	1781	                    Mycobacterium marinum
+  0.02	2857151	1278515	S	1764	                    Mycobacterium avium
+  0.02	3122134	2752158	S	1774	                  Mycobacteroides chelonae
+  0.02	3170429	1190228	G1	77643	                  Mycobacterium tuberculosis complex
+  0.02	3716811	2126656	G1	2993898	                  Mycobacterium ulcerans group
+  0.04	5951578	4692235	S	36809	                  Mycobacteroides abscessus
+  0.07	10832052	678552	G1	120793	                  Mycobacterium avium complex (MAC)
+  0.09	14393299	251101	G1	2249310	                  Mycobacterium simiae complex
+  0.09	15125732	1013898	G	670516	                Mycobacteroides
+  0.22	36368094	444328	G1	2642494	                  unclassified Mycobacterium
+  0.71	116163122	7205199	G	1763	                Mycobacterium
+  1.58	257550814	11058273	F	1762	              Mycobacteriaceae
+  4.00	652286755	2866267	O	85007	            Mycobacteriales

@@ -1,0 +1,23 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	37120	1710	38830	0.89441
+Pseudomonas sp. CIP-10	2892442	S	1164	461	1625	0.03743
+Enterobacter sp. T2	2707174	S	977	976	1953	0.04499
+Coxiella-like endosymbiont	1592897	S	1	0	1	0.00002
+Halomonas sp. JS92-SW72	2306583	S	1	0	1	0.00002
+Janthinobacterium agaricidamnosum	55508	S	150	0	150	0.00346
+Acidovorax carolinensis	553814	S	6	0	6	0.00014
+Variovorax paradoxus	34073	S	1	0	1	0.00002
+Sphingomonas sediminicola	386874	S	1	0	1	0.00002
+Phreatobacter cathodiphilus	1868589	S	1	1	2	0.00005
+Draconibacterium orientale	1168034	S	9	0	9	0.00021
+Dictyoglomus turgidum	513050	S	3	0	3	0.00007
+Lignipirellula cremea	2528010	S	1	2	3	0.00007
+Chondromyces crocatus	52	S	1	0	1	0.00002
+Haliangium ochraceum	80816	S	1	0	1	0.00002
+Candidatus Nitrospira inopinata	1715989	S	1	0	1	0.00002
+Bacillus cereus	1396	S	728	0	728	0.01677
+Candidatus Syntrophocurvum alkaliphilum	2293317	S	1	0	1	0.00002
+Streptomyces sp. NBC_00259	2903643	S	20	2	22	0.00051
+Nocardia salmonicida	53431	S	3	0	3	0.00007
+Candidatus Leptofilum sp.	3241576	S	1	0	1	0.00002
+Homo sapiens	9606	S	67	0	67	0.00154

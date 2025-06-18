@@ -1,0 +1,69 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	163439	8057	171496	0.68391
+Luteimonas granuli	1176533	S	1	0	1	0.00000
+Pseudomonas sp. CIP-10	2892442	S	23315	9866	33181	0.13232
+Pseudomonas fluorescens	294	S	2	0	2	0.00001
+Pseudomonas abietaniphila	89065	S	1	0	1	0.00000
+Enterobacter sp. T2	2707174	S	3417	3645	7062	0.02816
+Serratia sp. FGI94	671990	S	2	3	5	0.00002
+Halomonas sp. JS92-SW72	2306583	S	14	1	15	0.00006
+Steroidobacter denitrificans	465721	S	2	0	2	0.00001
+Methylococcus capsulatus	414	S	1	0	1	0.00000
+Achromobacter denitrificans	32002	S	1	87	88	0.00035
+Pigmentiphaga litoralis	516702	S	28	0	28	0.00011
+Alcaligenes sp. WGS1538	3366811	S	2	0	2	0.00001
+Castellaniella ginsengisoli	546114	S	1	0	1	0.00000
+Acidovorax carolinensis	553814	S	83	2	85	0.00034
+Simplicispira suum	2109915	S	1	0	1	0.00000
+Janthinobacterium agaricidamnosum	55508	S	80	0	80	0.00032
+Paraburkholderia acidisoli	2571748	S	1	0	1	0.00000
+Azonexus sp. IMCC34839	3133695	S	1	0	1	0.00000
+Tateyamaria sp. SN6-1	3092148	S	115	0	115	0.00046
+Sphingobium sp. SYK-6	627192	S	1	0	1	0.00000
+Phreatobacter cathodiphilus	1868589	S	21	0	21	0.00008
+Flagellimonas sp. CMM7	2654676	S	35	0	35	0.00014
+Maribacter dokdonensis	320912	S	1	0	1	0.00000
+Dokdonia sp. PRO95	1239415	S	1	0	1	0.00000
+Flavisolibacter ginsenosidimutans	661481	S	1	0	1	0.00000
+Pseudobacter ginsenosidimutans	661488	S	1	0	1	0.00000
+Pontibacter sp. SGAir0037	2571030	S	1	0	1	0.00000
+Melioribacter roseus	1134405	S	2	0	2	0.00001
+Symmachiella dynata	2527995	S	6	0	6	0.00002
+Rubinisphaera brasiliensis	119	S	1	0	1	0.00000
+Pirellula sp. SH-Sr6A	1632865	S	2	0	2	0.00001
+Aureliella helgolandensis	2527968	S	1	0	1	0.00000
+Aquisphaera giovannonii	406548	S	1	0	1	0.00000
+Humisphaera borealis	2807512	S	1	0	1	0.00000
+Roseibacillus persicicus	454148	S	1	0	1	0.00000
+Kiritimatiella glycovorans	1307763	S	1	0	1	0.00000
+Luteitalea pratensis	1855912	S	1	7	8	0.00003
+Malaciobacter halophilus	197482	S	5	0	5	0.00002
+Bdellovibrio bacteriovorus	959	S	2	0	2	0.00001
+Myxococcus stipitatus	83455	S	1	0	1	0.00000
+Geomonas oryzisoli	2847992	S	1	0	1	0.00000
+Streptomyces chromofuscus	42881	S	17084	3	17087	0.06814
+Streptomyces sp. GQFP	2907545	S	2066	2	2068	0.00825
+Streptomyces sp. R02	3238623	S	4	0	4	0.00002
+Streptomyces sp. T12	477697	S	2	0	2	0.00001
+Streptomyces sp. NBC_01537	2903896	S	1	0	1	0.00000
+Streptomyces seoulensis	73044	S	88	0	88	0.00035
+Phycicoccus jejuensis	367299	S	1	0	1	0.00000
+Leucobacter sp. HNU	3236805	S	1	0	1	0.00000
+Corynebacterium diphtheriae	1717	S	1	0	1	0.00000
+Mycobacterium ostraviense	2738409	S	1	0	1	0.00000
+Rhodococcus rhodochrous	1829	S	1	0	1	0.00000
+Gordonia sp. w5E2	3075837	S	1	0	1	0.00000
+Actinosynnema mirum	40567	S	1	0	1	0.00000
+Blastococcus brunescens	1564165	S	1	0	1	0.00000
+Rubrobacter xylanophilus	49319	S	1	0	1	0.00000
+Raoultibacter timonensis	1907662	S	1	0	1	0.00000
+Bacillus cereus	1396	S	19057	22	19079	0.07609
+Paenibacillus sophorae	1333845	S	3	0	3	0.00001
+Staphylococcus epidermidis	1282	S	1	0	1	0.00000
+Macrococcus brunensis	198483	S	1	0	1	0.00000
+Streptococcus iniae	1346	S	1	0	1	0.00000
+Phosphitispora sp. TUW77	3152361	S	1	0	1	0.00000
+Leptolyngbya sp. 7M	2812896	S	5	0	5	0.00002
+Deinococcus sonorensis	309891	S	1	0	1	0.00000
+Homo sapiens	9606	S	137	0	137	0.00055
+Halogeometricum borinquense	60847	S	1	0	1	0.00000

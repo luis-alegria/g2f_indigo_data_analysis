@@ -1,0 +1,7 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	51	6	57	0.66279
+Pseudomonas sp. CIP-10	2892442	S	10	9	19	0.22093
+Enterobacter sp. T2	2707174	S	1	2	3	0.03488
+Planctomyces sp. SH-PL14	1632864	S	1	0	1	0.01163
+Nannocystis punicea	2995304	S	1	0	1	0.01163
+Bacillus cereus	1396	S	3	1	4	0.04651

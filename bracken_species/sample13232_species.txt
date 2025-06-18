@@ -1,0 +1,41 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	59110	2714	61824	0.95076
+Pseudomonas sp. CIP-10	2892442	S	1438	572	2010	0.03091
+Enterobacter sp. T2	2707174	S	18	17	35	0.00054
+Halomonas sp. JS92-SW72	2306583	S	4	1	5	0.00008
+Steroidobacter denitrificans	465721	S	2	0	2	0.00003
+Planctobacterium marinum	1631968	S	1	0	1	0.00002
+Rhizobium sp. TH2	2775403	S	28	0	28	0.00043
+Ensifer adhaerens	106592	S	25	1	26	0.00040
+Salinarimonas sp.	2766526	S	1	0	1	0.00002
+Sphingomonas flavalba	2559804	S	1	4	5	0.00008
+Sphingopyxis sp. DBS4	2968500	S	1	0	1	0.00002
+Alphaproteobacteria bacterium endosymbiont of Tiliacea citrago	3077944	S	1	0	1	0.00002
+Burkholderia pyrrocinia	60550	S	1	9	10	0.00015
+Janthinobacterium agaricidamnosum	55508	S	4	0	4	0.00006
+Acidovorax carolinensis	553814	S	3	1	4	0.00006
+Neisseria sp. 23W00296	3373603	S	3	0	3	0.00005
+Flagellimonas sp. CMM7	2654676	S	59	0	59	0.00091
+Niabella ginsenosidivorans	1176587	S	1	0	1	0.00002
+Flavisolibacter ginsenosidimutans	661481	S	1	0	1	0.00002
+Filimonas lacunae	477680	S	1	0	1	0.00002
+Gemmatirosa kalamazoonensis	861299	S	1	1	2	0.00003
+Fontisphaera persica	2974023	S	1	0	1	0.00002
+Luteitalea pratensis	1855912	S	1	1	2	0.00003
+Paludibaculum fermentans	1473598	S	1	0	1	0.00002
+Polyangium aurulentum	2567896	S	1	0	1	0.00002
+Haliangium ochraceum	80816	S	1	0	1	0.00002
+Dictyoglomus turgidum	513050	S	1	0	1	0.00002
+Desulfovibrio desulfuricans	876	S	1	0	1	0.00002
+Bacillus cereus	1396	S	833	3	836	0.01286
+Caloramator sp. mosi_1	3023090	S	2	0	2	0.00003
+Streptomyces chromofuscus	42881	S	101	10	111	0.00171
+Streptomyces sp. T12	477697	S	4	3	7	0.00011
+Streptomyces sp. NBC_00259	2903643	S	1	0	1	0.00002
+Nakamurella panacisegetis	1090615	S	3	0	3	0.00005
+Iamia majanohamensis	467976	S	1	1	2	0.00003
+Miltoncostaea oceani	2843216	S	1	0	1	0.00002
+Leptolyngbya sp. 7M	2812896	S	2	0	2	0.00003
+Prochlorococcus marinus	1219	S	1	0	1	0.00002
+Spiroplasma endosymbiont of Panorpa germanica	3066314	S	1	0	1	0.00002
+Homo sapiens	9606	S	19	0	19	0.00029

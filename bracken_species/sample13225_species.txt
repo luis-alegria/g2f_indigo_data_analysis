@@ -1,0 +1,40 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	12261	710	12971	0.75190
+Agrilutibacter terrestris	2865112	S	1	0	1	0.00006
+Enterobacter sp. T2	2707174	S	1190	1453	2643	0.15321
+Enterobacter ludwigii	299767	S	1	0	1	0.00006
+Escherichia coli	562	S	2	2	4	0.00023
+Pseudomonas sp. CIP-10	2892442	S	515	249	764	0.04429
+Aquicella siphonis	254247	S	1	0	1	0.00006
+Halomonas sp. JS92-SW72	2306583	S	1	0	1	0.00006
+Sphingomonas rhizophila	2071607	S	1	1	2	0.00012
+Tateyamaria sp. SN6-1	3092148	S	1	0	1	0.00006
+Janthinobacterium agaricidamnosum	55508	S	7	1	8	0.00046
+Pigmentiphaga litoralis	516702	S	2	0	2	0.00012
+Sulfuritortus calidifontis	1914471	S	1	0	1	0.00006
+Draconibacterium orientale	1168034	S	15	0	15	0.00087
+Pontibacter pudoricolor	2694930	S	1	0	1	0.00006
+Flavisolibacter ginsenosidimutans	661481	S	1	0	1	0.00006
+Luteitalea pratensis	1855912	S	2	5	7	0.00041
+Paludibaculum fermentans	1473598	S	1	0	1	0.00006
+Candidatus Xiphinematobacter sp. Idaho Grape	1704307	S	1	0	1	0.00006
+Halobacteriovorax sp. BALOs_7	2109558	S	1	0	1	0.00006
+Dictyoglomus turgidum	513050	S	1	0	1	0.00006
+Desulfovibrio desulfuricans	876	S	1	0	1	0.00006
+Bacillus cereus	1396	S	735	6	741	0.04295
+Thermanaerosceptrum fracticalcis	1712410	S	1	0	1	0.00006
+Streptomyces sp. NBC_00259	2903643	S	3	44	47	0.00272
+Streptomyces antibioticus	1890	S	1	0	1	0.00006
+Kitasatospora sp. MMS16-BH015	2018025	S	1	0	1	0.00006
+Nocardioides cynanchi	2558918	S	1	1	2	0.00012
+Blastococcus brunescens	1564165	S	1	0	1	0.00006
+Blastococcus sp. PRF04-17	2933797	S	1	0	1	0.00006
+Actinomycetospora sp. NBC_00405	2975952	S	1	0	1	0.00006
+Boudabousia tangfeifanii	1912795	S	1	0	1	0.00006
+Actinomarinicola tropica	2789776	S	1	0	1	0.00006
+Conexibacter sp. S30A1	2937800	S	1	0	1	0.00006
+Thermobaculum terrenum	166501	S	1	1	2	0.00012
+Fimbriimonas ginsengisoli	1005039	S	1	0	1	0.00006
+Cloacibacillus porcorum	1197717	S	1	0	1	0.00006
+Fusobacterium pseudoperiodonticum	2663009	S	1	0	1	0.00006
+Homo sapiens	9606	S	11	0	11	0.00064

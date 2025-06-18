@@ -1,0 +1,7 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	1087	0	1087	0.96622
+Pseudomonas sp. CIP-10	2892442	S	4	0	4	0.00356
+Rhizosphaericola mali	2545455	S	1	0	1	0.00089
+Chitinophaga sp. MM2321	3137178	S	1	0	1	0.00089
+Pedobacter foliorum	2739058	S	1	0	1	0.00089
+Bacillus cereus	1396	S	30	0	30	0.02667

@@ -1,0 +1,90 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Cupriavidus malaysiensis	367825	S	3	39	42	0.00893
+Polynucleobacter necessarius	576610	S	2	0	2	0.00043
+Herbaspirillum hiltneri	341045	S	11	17	28	0.00596
+Collimonas fungivorans	158899	S	2	2	4	0.00085
+Sodalis ligni	2697027	S	291	26	317	0.06743
+Escherichia coli	562	S	74	213	287	0.06105
+Salmonella enterica	28901	S	10	1482	1492	0.31738
+Klebsiella pneumoniae	573	S	8	41	49	0.01042
+Klebsiella sp. PL-2018	2851540	S	2	1	3	0.00064
+Enterobacter ludwigii	299767	S	2	6	8	0.00170
+Enterobacter bugandensis	881260	S	1	2	3	0.00064
+Shigella flexneri	623	S	3	39	42	0.00893
+Citrobacter gillenii	67828	S	2	4	6	0.00128
+secondary endosymbiont of Ctenarytaina eucalypti	1199245	S	2	0	2	0.00043
+Candidatus Ishikawella capsulata	168169	S	2	0	2	0.00043
+Yersinia pestis	632	S	6	1362	1368	0.29100
+Yersinia mollaretii	33060	S	5	0	5	0.00106
+Yersinia entomophaga	935293	S	3	0	3	0.00064
+Serratia marcescens	615	S	2	1	3	0.00064
+Serratia sp. CMO1	2785630	S	1	4	5	0.00106
+Serratia symbiotica	138074	S	1	0	1	0.00021
+Pectobacterium parmentieri	1905730	S	5	2	7	0.00149
+Candidatus Erwinia haradaeae	1922217	S	1	0	1	0.00021
+Candidatus Pantoea carbekii	1235990	S	1	0	1	0.00021
+Morganella morganii	582	S	2	0	2	0.00043
+Stenotrophomonas maltophilia	40324	S	1	58	59	0.01255
+Xanthomonas albilineans	29447	S	29	3	32	0.00681
+Acinetobacter pittii	48296	S	1	20	21	0.00447
+Acinetobacter nosocomialis	106654	S	1	5	6	0.00128
+Steroidobacter denitrificans	465721	S	15	0	15	0.00319
+Pseudomonas putida	303	S	3	2	5	0.00106
+Pseudomonas aeruginosa	287	S	2	3	5	0.00106
+Pseudomonas sp. CIP-10	2892442	S	1	2	3	0.00064
+Shewanella baltica	62322	S	2	0	2	0.00043
+Shewanella bicestrii	2018305	S	1	0	1	0.00021
+Pseudoalteromonas sp. A41-2	2785910	S	1	0	1	0.00021
+Vibrio cholerae	666	S	4	0	4	0.00085
+Thioflavicoccus mobilis	80679	S	1	0	1	0.00021
+Mergibacter septicus	221402	S	3	0	3	0.00064
+Aeromonas sp. 2692-1	2560029	S	1	0	1	0.00021
+Aeromonas veronii	654	S	1	0	1	0.00021
+Salinispirillum sp. LH 10-3-1	2952525	S	1	0	1	0.00021
+Bradyrhizobium sp. CW1	2782686	S	1	39	40	0.00851
+Wolbachia endosymbiont (group A) of Agelastica alni	3066130	S	4	0	4	0.00085
+Wolbachia endosymbiont of Rhagoletis cingulata	1220542	S	1	0	1	0.00021
+Rickettsia conorii	781	S	1	0	1	0.00021
+Elioraea tepida	2843330	S	1	0	1	0.00021
+Candidatus Hydrogenosomobacter endosymbioticus	2558174	S	1	0	1	0.00021
+Pedobacter foliorum	2739058	S	17	34	51	0.01085
+Pedobacter ginsengisoli	363852	S	1	2	3	0.00064
+Croceimicrobium hydrocarbonivorans	2761580	S	34	0	34	0.00723
+Paludibaculum fermentans	1473598	S	11	0	11	0.00234
+Luteitalea pratensis	1855912	S	1	0	1	0.00021
+Singulisphaera acidiphila	466153	S	6	1	7	0.00149
+Candidatus Velamenicoccus archaeovorus	1930593	S	1	0	1	0.00021
+Bdellovibrio bacteriovorus	959	S	1	0	1	0.00021
+Enterococcus faecalis	1351	S	200	78	278	0.05914
+Dellaglioa sp. P0083	3344667	S	5	0	5	0.00106
+Streptococcus thermophilus	1308	S	1	0	1	0.00021
+Salicibibacter cibi	2743001	S	66	1	67	0.01425
+Bacillus velezensis	492670	S	7	36	43	0.00915
+Bacillus amyloliquefaciens	1390	S	1	2	3	0.00064
+Bacillus subtilis	1423	S	3	12	15	0.00319
+Bacillus atrophaeus	1452	S	2	0	2	0.00043
+Bacillus anthracis	1392	S	3	100	103	0.02191
+Bacillus thuringiensis	1428	S	1	0	1	0.00021
+Bacillus safensis	561879	S	1	0	1	0.00021
+Bacillus altitudinis	293387	S	1	1	2	0.00043
+Priestia megaterium	1404	S	1	10	11	0.00234
+Alkalicoccus halolimnae	1667239	S	3	0	3	0.00064
+Heyndrickxia coagulans	1398	S	1	0	1	0.00021
+Radiobacillus deserti	2594883	S	1	0	1	0.00021
+Fervidibacillus albus	2980026	S	1	0	1	0.00021
+Listeria monocytogenes	1639	S	1	0	1	0.00021
+Paenibacillus sp. FSL R5-0701	2921654	S	1	0	1	0.00021
+Geobacillus sp. GHH01	1233873	S	1	1	2	0.00043
+Clostridium botulinum	1491	S	15	0	15	0.00319
+Clostridium baratii	1561	S	2	0	2	0.00043
+Chakrabartyella piscis	2918914	S	1	0	1	0.00021
+Allobaculum sp. Allo2	2853432	S	1	0	1	0.00021
+Microlunatus phosphovorus	29405	S	43	13	56	0.01191
+Brachybacterium sp. GPGPB12	3023517	S	1	2	3	0.00064
+Conexibacter sp. S30A1	2937800	S	2	0	2	0.00043
+Dermatobacter hominis	2884263	S	1	0	1	0.00021
+Limnospira indica	147322	S	1	0	1	0.00021
+Leptolyngbya sp. 7M	2812896	S	1	0	1	0.00021
+Candidatus Saccharimonas aalborgensis	1332188	S	2	0	2	0.00043
+Minisyncoccus archaeophilus	3238481	S	36	0	36	0.00766
+Aminomonas paucivorans	81412	S	4	0	4	0.00085

@@ -1,0 +1,41 @@
+100.00	687	0	R	1	root
+100.00	687	0	R1	131567	  cellular organisms
+100.00	687	0	R2	2	    Bacteria
+89.32	613	0	K	3379134	      Pseudomonadati
+89.03	611	0	P	1224	        Pseudomonadota
+88.59	608	0	C	1236	          Gammaproteobacteria
+88.15	605	0	O	135614	            Lysobacterales
+88.15	605	0	F	32033	              Lysobacteraceae
+88.15	605	605	G	40323	                Stenotrophomonas
+0.29	2	0	O	91347	            Enterobacterales
+0.29	2	0	F	2812006	              Bruguierivoracaceae
+0.29	2	0	G	84565	                Sodalis
+0.15	1	0	O	1692040	            Acidiferrobacterales
+0.15	1	0	F	1692041	              Acidiferrobacteraceae
+0.15	1	0	G	1692042	                Sulfurifustis
+0.29	2	0	C	28211	          Alphaproteobacteria
+0.29	2	0	O	204457	            Sphingomonadales
+0.29	2	0	F	41297	              Sphingomonadaceae
+0.29	2	0	G	13687	                Sphingomonas
+0.15	1	0	C	28216	          Betaproteobacteria
+0.15	1	0	O	80840	            Burkholderiales
+0.15	1	0	F	80864	              Comamonadaceae
+0.15	1	1	G	34072	                Variovorax
+0.15	1	0	P	2818505	        Myxococcota
+0.15	1	0	P1	3031711	          Polyangia
+0.15	1	0	O	3031714	            Haliangiales
+0.15	1	0	F	224464	              Kofleriaceae
+0.15	1	0	G	162027	                Haliangium
+0.15	1	0	K1	1783270	        FCB group
+0.15	1	0	K2	68336	          Bacteroidota/Chlorobiota group
+0.15	1	0	P	976	            Bacteroidota
+0.15	1	0	C	1853228	              Chitinophagia
+0.15	1	0	O	1853229	                Chitinophagales
+0.15	1	0	F	563835	                  Chitinophagaceae
+0.15	1	1	G	504481	                    Sediminibacterium
+10.68	73	0	K	1783272	      Bacillati
+10.68	73	0	P	1239	        Bacillota
+10.68	73	0	C	91061	          Bacilli
+10.68	73	0	O	1385	            Bacillales
+10.68	73	0	F	186817	              Bacillaceae
+10.68	73	73	G	1386	                Bacillus

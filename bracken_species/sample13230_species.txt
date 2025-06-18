@@ -1,0 +1,34 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas maltophilia	40324	S	13604	2722	16326	0.78755
+Pseudomonas sp. CIP-10	2892442	S	1095	1911	3006	0.14501
+Enterobacter sp. T2	2707174	S	82	360	442	0.02132
+Edwardsiella tarda	636	S	1	0	1	0.00005
+Steroidobacter denitrificans	465721	S	1	0	1	0.00005
+Rhizobium sp. TH2	2775403	S	17	1	18	0.00087
+Ensifer adhaerens	106592	S	7	0	7	0.00034
+Beijerinckia indica	533	S	1	0	1	0.00005
+Sphingomonas rhizophila	2071607	S	1	1	2	0.00010
+Janthinobacterium agaricidamnosum	55508	S	5	0	5	0.00024
+Burkholderia lata	482957	S	1	0	1	0.00005
+Candidatus Korobacter versatilis	658062	S	1	0	1	0.00005
+Paludibaculum fermentans	1473598	S	1	0	1	0.00005
+Dyadobacter sp. 676	3088362	S	1	1	2	0.00010
+Sediminibacterium sp. TEGAF015	575378	S	1	0	1	0.00005
+Gemmatirosa kalamazoonensis	861299	S	1	1	2	0.00010
+Humisphaera borealis	2807512	S	2	0	2	0.00010
+Nitrospira japonica	1325564	S	1	0	1	0.00005
+Haliangium ochraceum	80816	S	1	0	1	0.00005
+uncultured Mailhella sp.	1981031	S	1	0	1	0.00005
+Bacillus cereus	1396	S	857	1	858	0.04139
+Carnobacterium maltaromaticum	2751	S	1	0	1	0.00005
+Micromonospora purpureochromogenes	47872	S	1	9	10	0.00048
+Streptomyces chromofuscus	42881	S	8	4	12	0.00058
+Corynebacterium urealyticum	43771	S	1	0	1	0.00005
+Nocardia sp. NBC_00508	2975992	S	1	0	1	0.00005
+Microlunatus phosphovorus	29405	S	1	0	1	0.00005
+Blastococcus sp. PRF04-17	2933797	S	1	0	1	0.00005
+Conexibacter sp. S30A1	2937800	S	3	0	3	0.00014
+Rubrobacter xylanophilus	49319	S	1	0	1	0.00005
+Spiroplasma endosymbiont of Panorpa germanica	3066314	S	1	0	1	0.00005
+Prochlorococcus marinus	1219	S	1	0	1	0.00005
+Homo sapiens	9606	S	13	0	13	0.00063

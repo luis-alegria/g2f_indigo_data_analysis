@@ -1,0 +1,44 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Stenotrophomonas	40323	G	41847	953	42800	0.84401
+Enterobacter	547	G	2712	1316	4028	0.07943
+Pseudomonas	286	G	2289	441	2730	0.05384
+Candidatus Thiodiazotropha	1913444	G	1	0	1	0.00002
+Faucicola	1604696	G	1	0	1	0.00002
+Halomonas	2745	G	1	0	1	0.00002
+Paraphotobacterium	2042066	G	1	0	1	0.00002
+Janthinobacterium	29580	G	48	1	49	0.00097
+Acidovorax	12916	G	10	0	10	0.00020
+Sulfuritortus	1938335	G	1	0	1	0.00002
+Polymorphobacter	1508451	G	7	0	7	0.00014
+Sphingomonas	13687	G	3	0	3	0.00006
+Ensifer	106591	G	6	0	6	0.00012
+Phreatobacter	1632780	G	2	0	2	0.00004
+Skermanella	204447	G	1	0	1	0.00002
+Phaeobacter	302485	G	1	0	1	0.00002
+Hyphobacterium	2004661	G	1	0	1	0.00002
+Candidatus Bealeia	1920992	G	1	0	1	0.00002
+Draconibacterium	1471399	G	10	0	10	0.00020
+Niastella	354354	G	1	0	1	0.00002
+Niabella	379899	G	1	0	1	0.00002
+Aurantibacillus	3088889	G	1	0	1	0.00002
+Cyclobacterium	68288	G	1	0	1	0.00002
+Gemmatirosa	1706036	G	2	0	2	0.00004
+Gemmatimonas	173479	G	1	0	1	0.00002
+Humisphaera	2807511	G	1	0	1	0.00002
+Fontisphaera	3050007	G	1	0	1	0.00002
+Luteitalea	2004797	G	1	0	1	0.00002
+Bacillus	1386	G	871	1	872	0.01720
+Sporosarcina	1569	G	1	0	1	0.00002
+Clostridium	1485	G	1	0	1	0.00002
+Streptomyces	1883	G	38	0	38	0.00075
+Micromonospora	1873	G	33	0	33	0.00065
+Nocardia	1817	G	2	0	2	0.00004
+Dermacoccus	57495	G	1	0	1	0.00002
+Nocardioides	1839	G	1	0	1	0.00002
+Blastococcus	38501	G	1	0	1	0.00002
+Conexibacter	191494	G	1	0	1	0.00002
+Thermobaculum	262406	G	1	0	1	0.00002
+Leptolyngbya	47251	G	1	0	1	0.00002
+Aminithiophilus	3029078	G	1	0	1	0.00002
+Homo	9605	G	84	0	84	0.00166
+Candidatus Nitrosocosmicus	1826864	G	2	0	2	0.00004
