@@ -1,8 +1,0 @@
-name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
-Stenotrophomonas maltophilia	40324	S	4943	11	4954	0.79404
-Pseudomonas sp. CIP-10	2892442	S	5	0	5	0.00080
-Enterobacter sp. T2	2707174	S	1	0	1	0.00016
-Sodalis ligni	2697027	S	1	0	1	0.00016
-Bacillus cereus	1396	S	1275	0	1275	0.20436
-Micromonospora coriariae	285665	S	1	0	1	0.00016
-Homo sapiens	9606	S	1	0	1	0.00016

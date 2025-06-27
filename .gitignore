@@ -1,0 +1,17 @@
+# Files
+.DS_Store
+.RData
+.Rhistory
+shiny_compo/.DS_Store
+
+#Directories
+brack_krak_genus/
+brack_krak_species/
+bracken_genus/
+bracken_species/
+fastqc/
+kraken_inspect/
+mi_extraction_files/
+mpa_conv/
+mpa_conv_species/
+multiqc/

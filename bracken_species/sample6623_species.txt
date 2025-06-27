@@ -1,8 +1,0 @@
-name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
-Stenotrophomonas maltophilia	40324	S	27668	1709	29377	0.96635
-Enterobacter sp. T2	2707174	S	68	94	162	0.00533
-Sodalis ligni	2697027	S	1	0	1	0.00003
-Janthinobacterium agaricidamnosum	55508	S	1	0	1	0.00003
-Bacillus cereus	1396	S	853	0	853	0.02806
-Moorella thermoacetica	1525	S	3	0	3	0.00010
-Actinomyces oris	544580	S	2	0	2	0.00007
