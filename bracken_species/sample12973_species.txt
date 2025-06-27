@@ -1,7 +1,0 @@
-name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
-Stenotrophomonas maltophilia	40324	S	285	22	307	0.95342
-Pseudomonas sp. CIP-10	2892442	S	4	2	6	0.01863
-Chitinophaga sp. MM2321	3137178	S	1	0	1	0.00311
-Streptomyces chromofuscus	42881	S	4	0	4	0.01242
-Bacillus cereus	1396	S	2	0	2	0.00621
-Enterococcus faecalis	1351	S	1	0	1	0.00311
